@@ -1,0 +1,77 @@
+# Klaegcasleen
+
+- Pronounced: Kla-cleen
+- Etymology: Claeg is old english for clay, Caislean is irish for castle
+- Location: R8-C8
+- Importance: Holds the seat of power
+
+Atop a __steep hill of red clay__ smothered in __rusted clovers__ proudly sits __Klaegcasleen__, the __seat of power__. 
+
+## The Citadel
+
+A massive __oval based cylindrical citadel__ sits within the dwelling's walls. From afar the settlement blends into the sky due to the __teal coloured bricks__ that make up the walls and citadel. These building blocks of __clay__ are incredibly strong and cause the internal temperature of the castle to stay at a splendid cool temperature all year round. This is enjoyed by all locals and visitors.
+
+The ground hall of the __citadel__ is dominated by a __great hall__. This is a __public space__ used for various events such as __feasts, theatre, workshops, lectures__ and more. Some say this is pure generosity, others say this is to prevent unseen assassinations.
+
+## Caves, water, and fountain
+
+Although the foundation seems to be a clay hill it is actually on top of a __limestone outcropping of caves__, the clay sides installed and maintained during periods without war. Apart from shelter the citizens also make use of the __caves’ water__. A __hallowed fountain__ sits prominently as the centre piece of the Bailey. The site was chosen due to its inexplicable existence. 
+
+The fountain's __water never stops flowing__ and many say it will outlive even the realm. Little is known about the __marble fountain's__ origins with its __carved imagery__ of __fairies__ and __pond weeds__ indicating it belonged to a long forgotten time. The townspeople treasure it as they use the impossibly __pure and clear water for pottery and paint making__.
+
+## Potters
+
+There are many __potters__, creating all sorts of ceramics such as __bricks, tableware, and vases__. The pottery is known for its __strength__ and __simple beauty__. However, a __rift__ amongst the potters has recently occurred. 
+
+Where __once__ only __blue clay was used__, now __new artists__ are using __red clay__. 
+
+- __The Gaulters__ believe the __blue clay__ is calming and that the __red clay should be left for the land__, so life can grow on it. 
+- __The Rusthands__ say that blue clay is now hard to find and therefore too expensive, preventing new potters from starting their craft.
+
+## Paintings
+
+The citadel boasts amazing __paintings__ of __people__. All across the realms the paintings are __praised__ and __coveted__ for the __life likeness__ of its subjects. Unfortunately this is due to their use of __minimum (red lead)__ that leads to __lead poisoning__ in the preparers and artists. 
+
+Chronic poisoning displays as __agitation, irritability, vision disorders, hypertension, and a grayish facial hue__. 
+__Older skilled painters__ are kept on the 1st floor of the citadel where they only use __blue candles__ to light the rooms (hiding their grey facial hues). 
+They __only paint in the sun room__, believing __sunlight is the best light for skin__.
+
+## Food
+
+Due to the location on a __peninsula__ the dwelling is able to __trade with other realms via the sea__. 
+Currently there is much jubilation about __spiced cakes__. 
+Otherwise they eat various __plant foods and seafood__.
+
+## Brickfall and schism
+
+Unfortunately the holding is always hit with a __massive storm__, known as __brickfall__, at the __start__ of __Tithe__. 
+The citizens __hide in the caves__ until the __2 day storm passes__ at which much damage will have occurred to the wooden homes due to various bricks from the wall and citadel falling on them. Overall the walls provide more safety as a windshield than destruction but many believe not enough is done to prevent bricks from falling.
+
+This has led to 2 sides in the leaders of the dwelling who also act as the seat of power. 
+
+__The Repairers faction__ believe things are best as they are. Anything to stop bricks from falling would require more effort than laying in the new bricks and fixing damages. 
+They oppose the __Reinforcement__ plans as it would ruin the simple beauty of __Klaecasleen__ for __Eldermass__. It contains the following members:
+
+- [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight): Leader of the Seat of power
+- [The Fanged Knight](/cast/klaegcasleen_knights.qmd#the-fanged-knight): Steward of Klaegcasleen
+- [The Horn Knight](/cast/klaegcasleen_knights.qmd#the-horn-knight-): Marshal of Klaegcasleen
+
+
+__The Reinforcement faction__ believe red clay should be laid over the walls and castle to prevent brickfalls. Carrying this out during __Eldermass__ would allow the clay to dry in the sun. Additionally, they propose artists to create more complex art through the reinforcing clay. This clay would then be washed away and added back to the land through the rains of the rest of the year. It contains the following members:
+
+- [The War Knight](/cast/klaegcasleen_knights.qmd#the-war-knight): Domain ruler of Klaegcasleen
+- [The Bone Knight](/cast/wandering_knights.qmd#the-bone-knight): Envoy of the realm
+
+There have been various assassination attempts on [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) and on [The War Knight](/cast/klaegcasleen_knights.qmd#the-war-knight).
+
+## Used Prompts
+
+- Holding features welcoming citadel
+- Bailey includes hallowed fountain
+- Keep holds Guards with Antlers decor
+- Food is spiced cake
+- Goods are strong pottery
+- Luxuries are hazardous artwork
+- Drama involves Redemption and Assassin
+- Woe is Looming Storm
+- News of Market Divided

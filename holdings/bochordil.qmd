@@ -1,0 +1,86 @@
+# Bochordil
+
+- Pronounced: Back-or-dill
+- Etymology: Bochord is old english for library, aill is irish for cliff
+- Location: R1-C5
+- Importance: Library and protection from invaders from the north (The Eminent Realm)
+
+The __Tower of Bochordil__ is roughly cut out of the __cliff face__ of a __crag__. 
+It is easy to miss if you don’t know its location.
+
+## Negative space of the crag
+
+The __bailey__ of Bochordil fits in a __perfectly cylindrical cut out of the crag__. T
+he cut out runs from the top of the crag to a perfectly level circle on the ground. 
+No one knows how this occurred but many people believe it was through divine intervention.
+
+## Gate
+
+The holding’s base is not quite a perfect circle with the imperfection caused by the space that allows escape from the holding. 
+There lies a __two doored gate__, as tall as three men and as thick as a mule from nose to tail. 
+It is made from a__deep purple metal__ only occasionally found in __rocks__ that have __dropped__ from the __heavens__ and other __mysterious structures__. 
+Atop the gate there are always guards __wary of invasion__ from the __north__.
+
+## Pyramid
+
+In the centre of the Bailey lies a tall but __thin triangular based pyramid__. 
+Made of the same __deep purple metal__ as the gate it is seen as a __divine gift__. 
+It is used as a __church__ for the [Emerald Lights](/cast/the_emerald_lights.qmd). 
+The religious leader of this holding is [Salvia the Sage](/cast/the_emerald_lights.qmd#salvia-the-sage).
+
+## The Transposed Tower
+
+The Tower of Bochordil is known as __The Transposed Tower__. 
+Rather than the tower being a cylindrical structure with empty space around it, the tower’s rooms are __carved into the rock surrounding the empty space of the cylindrical bailey__. 
+The Transposed Tower’s windows looking over the bailey and its dominating temple. 
+
+There are __various floors__ filled with __books and scholars__. 
+There is only one __door for entry__ from the bailey that leads directly into the __throne room__. 
+
+In the throne room lies a __throne__ that would be called __plain__ if it were not made entirely out of __emerald__. 
+The __walls__ of the room itself are plastered with __large pages depicting maps, treaties, and stories__. 
+
+Sitting upon the throne is [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight), always reading and writing even when speaking or listening to others. Always at their service is their apprentice [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight), managing the tactical affairs as [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) manages the strategic. 
+
+[The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight) studied at The Transposed Tower and has strong connections with the Knights and scholars there.
+
+Only [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight), [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight), or [Salvia the Sage](/cast/the_emerald_lights.qmd#salvia-the-sage) can grant access to the library of the Tower.
+
+## Geography
+
+Unfortunately their location's geography __does not promote food production__ and so they mostly rely on __fermented fish__ from the fishing in the __south east peninsula__. 
+The denizens set up the holding as a __brilliant choke point__ to repel the constant invasions of The Eminent Realm who would use it as a perfect staging ground for a war with The Excised Realm. 
+People stay for the accumulated knowledge or the holy structure.
+
+## Spies and mead
+
+There are __spies__ of __other realms__ in The Transposed Tower. 
+[The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) and [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight) know this. 
+They have their __own spies bribe them__ with their __knowledge__ to share knowledge of the other realms. 
+
+Most importantly the spies/scholars of The Transposed Tower are able to make an __intoxicating mead__ that is __made nowhere else__.
+After drinking the mead you have __lucid dreams that you remember with utmost clarity__. 
+Unfortunately you __forget everything__ you did whilst you were __drunk__ and are very likely to __answer all questions truthfully__.  
+This is made with __normal bees__ that use the __pollen from a flower__ that came from the __heavens__. 
+
+## Trillium Wellsii
+
+The bees and flowers are cultivated at the __top of the crag__. 
+
+The bee’s __royal jelly__ is also used to create a __flawless floral perfume__ that is used to trade with other realms. 
+
+The flower is called __Trillium Wellsii__ (H.G Wells wrote War of the Worlds). 
+It has three curling stems that connect to one head with 3 petals. 
+The Petals are a deep dark iridescent colour and on closer inspection look almost glass like.
+
+## Used Prompts
+
+- Holding features dark gate
+- Bailey includes majestic temple
+- Keep holds throne with jewels decor
+- Food is fermented fish
+- Goods are secretive mead
+- Luxuries are flawless fragrance
+- Drama involves greed and disguise
+- Woe is ongoing invasion
+- News of festival mood sceptical

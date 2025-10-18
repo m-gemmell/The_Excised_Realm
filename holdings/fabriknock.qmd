@@ -1,0 +1,71 @@
+# Fabriknock
+
+- Pronounced: Fa-bree-knock
+- Etymology: Fabir is old french for forge, knock is irish for hill
+- Location: R5-C12
+- Importance: Primary source of forged metals in the realm
+
+## Forge
+
+Constant hammering rings through the bailey. 
+It originates from the __blacksmiths__ in a __large white chimney like building__. 
+A __thick deep purple metal rod__ runs __far__ into the __earth__ providing a __mighty heat__. 
+
+Many blacksmiths work here due to the free heat. 
+Aside from the source of heat there is nothing else special about the forge and its output.
+
+## Workshops
+
+To match the blacksmiths many __rivalling workshops__ exist in __Fabriknock__. 
+They make all manner of contraptions and jewellery from the metals of the forge. 
+They are especially fond of using the green pearls from the green bees.
+
+The various wares are sold in market stalls surrounding the forge.
+The realm's Merchants come here to buy these goods and then sell them at [Inis Ocular](/holdings/inis_ocular.qmd).
+
+## Trillium Baumuum
+
+Strange radial __3 petalled and 3 stemmed__ flowers exist in the surrounding area (__Trillium Baumuum__; trillium is a flower, Frank Baum wrote the wizard of oz). 
+Although they are beautiful with their __emerald petals__ and __glass like__ appearance they are __forbidden to be picked__. 
+
+The flowers are used by the __bee keepers__. 
+The bees that use its __pollen__ produce a <span style='color: #dfff00;'>chartreuse</span> __honey__ that is sold as a luxury. 
+Beehives are built into the wood walls of the town so the beekeepers can extract honey from inside the walls without walking on the flowers.
+
+Additionally, bees end up growing a __green emerald inside their body__. 
+These are extracted and used by the various makers in the workshops. 
+
+## Rainbow keep
+
+Inside the __Keep of multi coloured rocks__ they keep a __reliquary__. 
+This is the __whole skeleton of the Green Eyed Seer__. 
+It is of high significance for the [Emerald Lights](/cast/the_emerald_lights.qmd) religion who was seen as a sort of Demigod for their religion. 
+
+The skeleton looks like that of a __“little grey man”__. 
+It is protected by [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight). 
+[The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) sent it to be protected by [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) as a power move against [Salvia the Sage](/cast/the_emerald_lights.qmd#salvia-the-sage). 
+[The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) is [The Moat Knight’s](/cast/other_holding_knights.qmd#the-moat-knight) child.
+
+## Tensions and the sun religion
+
+The __denizens__ of the holding have __fractured__. 
+There have been __brawls and killings__. 
+It seems senseless to the guards and those in the Keep. 
+But it is not senseless. 
+
+__Many__ of the holding want to __steal the skeleton__ of the Green Seer to give to The Eagle (myth).
+This seems to be turning into a __new religion that worships the sun__. 
+
+The other side follows the [Emerald Lights](/cast/the_emerald_lights.qmd) religion and so do not want their reliquary to be given away.
+
+## Used Prompts
+
+- Holding features bright forge
+- Bailey includes rustic workshops
+- Keep holds reliquary with bones
+- Food is chewy meat
+- Goods are fine honey
+- Luxuries are mythical jewel
+- Drama involves betrayal through brawl
+- Woe is ongoing killing
+- News of market nostalgic

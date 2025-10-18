@@ -1,0 +1,90 @@
+project:
+  type: website
+editor:
+  render-on-save: true
+website:
+  bread-crumbs: false
+  page-navigation: true
+  title: The Excised Realm
+  description: Realm for Mythic Bastionland
+  favicon: /images/favicon.png
+  navbar:
+    title: The Excised Realm
+    collapse-below: lg
+    left:
+    - text: Overview
+      href: index.qmd
+    - text: History
+      href: history/first_age.qmd
+    - text: Cast
+      href: cast/the_cast.qmd
+    - text: Holdings
+      href: holdings/holdings.qmd
+    - icon: house-fill
+      href: https://m-gemmell.github.io/
+      aria-label: m-gemmell website
+    - icon: cup
+      href: https://ko-fi.com/waveofinspiration
+      aria-label: Ko-fi
+    - icon: github
+      href: https://github.com/m-gemmell/PRIMEVAL_DEITIES
+      aria-label: GitHub
+    - icon: bluesky
+      href: https://bsky.app/profile/m-gemmell.bsky.social
+      aria-label: m-gemmell bluesky account
+  sidebar:
+  - id: Overview
+    title: Overview
+    style: floating
+    align: left
+    contents:
+    - href: index.qmd
+  - id: History
+    title: History
+    style: floating
+    align: left
+    contents:
+      - href: history/first_age.qmd
+      - href: history/second_age.qmd
+  - id: Cast
+    title: Overview
+    style: floating
+    align: left
+    contents:
+    - href: cast/the_cast.qmd
+    - section: "Knights"
+      contents:
+      - href: cast/klaegcasleen_knights.qmd
+      - href: cast/other_holding_knights.qmd
+      - href: cast/wandering_knights.qmd
+    - section: Vassals
+      contents:
+      - href: cast/the_emerald_lights.qmd
+      - href: cast/fabriknock_vassals.qmd
+  - id: Holdings
+    title: Holdings
+    style: floating
+    align: left
+    contents:
+    - href: holdings/holdings.qmd
+    - href: holdings/klaegcasleen.qmd
+    - href: holdings/bochordil.qmd
+    - href: holdings/fabriknock.qmd
+    - href: holdings/inis_ocular.qmd
+format:
+  html:
+    mainfont: Caudex
+    fig-width: 10.2
+    fig-height: 6
+    grid:
+      sidebar-width: 200px
+      body-width: 1000px
+      margin-width: 200px
+      gutter-width: 0.75em
+    css: include/webex.css
+    include-after-body: include/webex.js
+    theme:
+      - darkly
+      - styles.scss
+    embed-resources: false
+    toc: true

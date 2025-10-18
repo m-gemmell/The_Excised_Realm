@@ -1,0 +1,59 @@
+/*-- scss:defaults --*/
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Caudex:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// Colors
+$dark-grey: #252a34;
+$mb-light: #a7a984;
+$mb-medium: #5c6641;
+$mb-dark: #18262e;
+$mb-teal: #24635b;
+
+// Base document colors
+$navbar-bg: $mb-medium;
+$navbar-hl: $mb-dark; // highlight color when hovering over navbar links
+$footer-bg: $mb-medium; // footer
+$sidebar-hl: $mb-light;
+$background-color: $mb-dark;
+$link-color: $mb-light;
+$sidebar-bg: $mb-dark;
+$body-bg: $mb-dark;
+
+
+
+/*-- scss:rules --*/
+
+/*-- scss:rules --*/
+
+
+h1, h2, h3, h4, h5, h6, navbar-title {
+  font-family: "Caudex", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+// Centre a first and second level header
+.h1centre h1 {
+  text-align: center;
+}
+.h2centre h2 {
+  text-align: center;
+}
+
+.tippy-tooltip {
+  font-size: 16px;
+  padding: 3px 5px;
+}
+
+.imageflex { display: flex; }
+.imageflexcontent { margin-left: 5px; margin-top: 0; }
+
+// Square images
+
+.square_image {
+  position: relative;
+  display: flex;
+  flex-wrap:nowrap;
+  justify-content: center;
+}
