@@ -20,6 +20,10 @@ website:
       href: cast/the_cast.qmd
     - text: Holdings
       href: holdings/holdings.qmd
+    - text: Map
+      href: map/map.qmd
+    - text: Sessions
+      href: sessions/sessions.qmd
     - icon: house-fill
       href: https://m-gemmell.github.io/
       aria-label: m-gemmell website
@@ -71,6 +75,27 @@ website:
     - href: holdings/bochordil.qmd
     - href: holdings/fabriknock.qmd
     - href: holdings/inis_ocular.qmd
+  - id: Map
+    title: Map
+    style: floating
+    align: left
+    contents:
+    - href: map/map.qmd
+    - href: map/myths.qmd
+    - href: map/dwellings.qmd
+    - href: map/sanctums.qmd
+    - href: map/monuments.qmd
+    - href: map/hazards.qmd
+    - href: map/curses.qmd
+    - href: map/ruins.qmd
+  - id: Sessions
+    title: Sessions
+    style: floating
+    align: left
+    contents:
+    - href: sessions/sessions.qmd
+    - href: sessions/session_one.qmd
+    - href: sessions/session_two.qmd
 format:
   html:
     mainfont: Caudex

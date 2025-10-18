@@ -1,0 +1,39 @@
+# Myths
+
+## The Inferno
+
+- ID: 1
+- 6-4
+- Location: R11-C3
+
+## The Child
+
+- ID: 2
+- 1-8
+- Location: R1-C8
+
+## The Desert
+
+- ID: 3
+- 3-2
+- Location: R3-C2
+
+## The Eagle
+
+- ID: 4
+- 4-10
+- Location: R2-C11
+- Omen 1: [Session one, Day 2 afternoon](/sessions/session_one.qmd#day-2-afternoon)
+- Omen 2: [Session one, Day 3 afternoon](/sessions/session_one.qmd#day-3-afternoon)
+
+## The Fortress
+
+- ID: 5
+- 5-2
+- Location: R-2-C2
+
+## The Sprite
+
+- ID: 6
+- 5-11
+- Location: R6-C7

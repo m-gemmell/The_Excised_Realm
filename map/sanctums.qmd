@@ -1,0 +1,27 @@
+# Sanctums
+
+## S1
+
+- Majestic ledge
+- Enthroned seer (1-8)
+- R12-C8
+
+## S2
+
+- Timeless cavern
+- Cured seer (2-6)
+- R5-C6
+
+## S3
+
+- Colourful flora
+- Roaming seer (5-12)
+- R12-C7
+
+## S4
+
+- Haven of roots
+- Tangle seer (4-3)
+- R5-C9
+
+

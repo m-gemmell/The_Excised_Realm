@@ -5,22 +5,57 @@
 - Location:
 - Importance: Trade port for the realm to other realms across the sea. Trade only occurs here to quarantine merchants from other realms.
 
-Inis Ocular is known for its observatory and has been taken over by the "Emerald lights” religion. They use the observatory to try to look out for the emerald lights in the sky. The leader is Mentha the Mint (they/them).
+## Port
 
-The official ruler, The Shield Knight, lives in a small garden house in the hallowed garden. Here, grows the alien flower, Trillium Blaschkanum (Blaschka known for the glass flowers). Each flower is spit into three from the stem to the head. Each third has one triangular petal and various triangular leaves. The thirds are connected by thin fibres. All of it looks quite glass-like and one third is coloured emerald, another third a dark iridescent, and the third a yellow colour. The leaves are fed to silk moth larvae producing green, black, or yellow silk depending on the leaves they eat. The silks possibly have other effects.
+The port is bustling with trade.
+Overseas merchants are not allowed to go inland, instead trade occurring here.
 
-The Shield Knight is blackmailed by mehta the Mint to let the Emerald lights rule. This is because they have evidence of The Shield Knight skimming wealth off the top from the trade that passes through.
+## Observatory
 
-Additionally, there are a lot of leather workers as lots of leather is received from other realms through trade.
+Inis Ocular is known for its __observatory__ and has been __taken over__ by [The Emerald Lights](/cast/the_emerald_lights.qmd). 
+They use the observatory to try to watch the emerald lights in the sky. 
+The leader is [Mentha the Mint](/cast/the_emerald_lights.qmd#mentha-the-mint) (they/them).
 
-Used Prompts
-Holding features Sage’s Den
-Bailey includes Hallowed garden
-Keep holds observatory
-Food is wet pie
-Goods are abundant leather
-Luxuries are esoteric silk
-Drama involves coup through blackmail
-Woe is unseen fire
-News of tournament mood content
+## Hallowed Garden
+
+The official ruler, [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight), lives in a __small garden house__ in the __hallowed garden__. 
+
+## Trillium blaschkanum
+
+<center>
+![](/images/trillium_blaschkanum.png){style="width:200px; border-radius: 5px;"}
+</center>
+
+In the garden, grows the alien flower, __Trillium blaschkanum__ (Blaschka known for the glass flowers). 
+Each flower is __split into three from the stem to the head__. 
+__Each third__ has __one triangular petal__ and __triangular leaves__. 
+The thirds are __connected__ by __thin fibres__. 
+
+All of it looks quite __glass-like__ and __one third__ is coloured __emerald__, another third a __dark iridescent purple__, and the third a __yellow colour__. 
+
+## Textiles
+
+The __leaves__ of __Trillium Blaschkanum__ are fed to __silk moth larvae__ producing __green, purple, or yellow silk__ depending on the leaves they eat.
+These are used by local textile workers to make very expensive clothing.
+The silks possibly have other effects.
+
+Strangely there are also a lot of leather workers on the island.
+Lots of leather is received from other realms through trade as there is little cattle farming in The Excised Realm.
+
+## Blackmail
+
+[The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) is blackmailed by [Mentha the Mint](/cast/the_emerald_lights.qmd#mentha-the-mint) to let [The Emerald Lights](/cast/the_emerald_lights.qmd) rule. 
+This is because they have evidence of [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) skimming wealth off the top from the trade that passes through.
+
+## Used Prompts
+
+- Holding features Sage’s Den
+- Bailey includes Hallowed garden
+- Keep holds observatory
+- Food is wet pie
+- Goods are abundant leather
+- Luxuries are esoteric silk
+- Drama involves coup through blackmail
+- Woe is unseen fire
+- News of tournament mood content
 

@@ -58,20 +58,26 @@ There are __spies__ of __other realms__ in The Transposed Tower.
 [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) and [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight) know this. 
 They have their __own spies bribe them__ with their __knowledge__ to share knowledge of the other realms. 
 
-Most importantly the spies/scholars of The Transposed Tower are able to make an __intoxicating mead__ that is __made nowhere else__.
+Most importantly the spies/scholars of The Transposed Tower are able to make an __intoxicating mead__ that is __made nowhere else__ due to their access to __Trillium wellsii__.
+
+## Trillium wellsii
+
+<center>
+![](/images/trillium_wellsii.png){style="width:200px; border-radius: 5px;"}
+</center>
+
+At the top of the crag is the only occurrence of the flower __Trillium wellsii__ (H.G Wells wrote War of the Worlds). 
+It has three curling stems that connect to one head with 3 petals. 
+The Petals are a deep dark iridescent colour and on closer inspection look almost glass like.
+
+Bees are kept at the top of The Transposed Tower giving them access to the flowers.
+The honey of these bees are used to create the __intoxicating mead__.
+
 After drinking the mead you have __lucid dreams that you remember with utmost clarity__. 
 Unfortunately you __forget everything__ you did whilst you were __drunk__ and are very likely to __answer all questions truthfully__.  
 This is made with __normal bees__ that use the __pollen from a flower__ that came from the __heavens__. 
 
-## Trillium Wellsii
-
-The bees and flowers are cultivated at the __top of the crag__. 
-
 The bee’s __royal jelly__ is also used to create a __flawless floral perfume__ that is used to trade with other realms. 
-
-The flower is called __Trillium Wellsii__ (H.G Wells wrote War of the Worlds). 
-It has three curling stems that connect to one head with 3 petals. 
-The Petals are a deep dark iridescent colour and on closer inspection look almost glass like.
 
 ## Used Prompts
 

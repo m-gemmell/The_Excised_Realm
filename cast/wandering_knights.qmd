@@ -7,16 +7,16 @@
 </center>
 
 - 4-6
-- Sheriff of Klaegcasleen (they/them)
+- Sheriff of [Klaegcasleen](/holdings/klaegcasleen.qmd) (they/them)
 - Mature
 - Helps both the repairers and reinforcement factions for favours
 - Explosives: Fire bird egg, explodes by touching the ground
 
-The Mule Knight hides amongst the peasants, constantly gathering intel on Myths, Seers, and the Realm. They play all sides trying to act as a balancing force, knocking down the high and raising the low. Although effectively neutral they side more with The War Knight as The Mule Knight is kind and despises the The Ghoul Knight cruelty expressed through the kidnapping of The War Knight’s child.
+[The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight) hides amongst the peasants, constantly gathering intel on Myths, Seers, and the Realm. They play all sides trying to act as a balancing force, knocking down the high and raising the low. Although effectively neutral they side more with [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) as The [The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight) is kind and despises the [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) cruelty expressed through the kidnapping of [The War Knight's](/cast//klaegcasleen_knights.qmd#the-war-knight) child.
 
-The Mule Knight may show their androgynous youthful knightly presence to help other kind knights. They’ll only share info to those with stories to share, truth or fabrications are equally important to The Mule Knight.
+[The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight) may show their androgynous youthful knightly presence to help other kind knights. They’ll only share info to those with stories to share, truth or fabrications are equally important to [The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight).
 
-Once a protege painter in the castle, The Mule Knight's eyes are a lightish silver blue as all the lead accumulated in them. Although this stopped all other lead poisoning effects he became effectively blind and so he rarely leaves his horse. Unable to paint he found a heart he extracted from spores and tendrils and put into a jar he carries. This heart is the Green Seer who knighted The Mule Knight.
+Once a protege painter in the castle, [The Mule Knight's](/cast/wandering_knights.qmd#the-mule-knight) eyes are a lightish silver blue as all the lead accumulated in them. Although this stopped all other lead poisoning effects he became effectively blind and so he rarely leaves his horse. Unable to paint he found a heart he extracted from spores and tendrils and put into a jar he carries. This heart is the Green Seer who knighted [The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight).
 
 ## The Bone Knight
 
@@ -25,17 +25,17 @@ Once a protege painter in the castle, The Mule Knight's eyes are a lightish silv
 </center>
 
 - 5-2
-- Envoy of Klaegcasleen (she/her)
+- Envoy of [Klaegcasleen](/holdings/klaegcasleen.qmd) (she/her)
 - Young
 - Reinforcement faction
 - Box of bones, painted wooden case, bones of unsorted chaos
 
 A dark skinned woman with an afro. She wears a black and white hooded cloak with stylish but functional dress underneath.
 
-Speaking with an erratic and boisterous voice she is very popular with the masses and so was given the role of envoy by The Ghoul Knight. This was also in part to the fact that she is the secret lover of The War Knight and so being envoy means she has to be away from Klaegcasleen regularly. 
+Speaking with an erratic and boisterous voice she is very popular with the masses and so was given the role of envoy by [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight). This was also in part to the fact that she is the secret lover of [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) and so being envoy means she has to be away from [Klaegcasleen](/holdings/klaegcasleen.qmd) regularly. 
 
-She is frequently away over the seas or through the realm to keep alliances and trade partners happy. There is a 50% chance she is at Klaegcasleen each month.
+She is frequently away over the seas or through the realm to keep alliances and trade partners happy. There is a 50% chance she is at [Klaegcasleen](/holdings/klaegcasleen.qmd) each month.
 
 She is constantly trying to enrich the poorest and is afraid of being imprisoned or tied down.
 
-Although not as great as other knights in mass battle she is great at assassinations and ambushing. She frequently tries to assassinate The Ghoul Knight but has never found a clean opportunity to do so.
+Although not as great as other knights in mass battle she is great at assassinations and ambushing. She frequently tries to assassinate [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) but has never found a clean opportunity to do so.

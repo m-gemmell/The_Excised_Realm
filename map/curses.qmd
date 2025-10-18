@@ -1,0 +1,16 @@
+# Curses
+
+## C1
+
+- Taunting mirage
+- R4-C2
+
+## C2
+
+- Gorge of sorrow
+- R7-C7
+
+## C3
+
+- Ominous chimes
+- R11-C5

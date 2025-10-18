@@ -23,9 +23,13 @@ They are especially fond of using the green pearls from the green bees.
 The various wares are sold in market stalls surrounding the forge.
 The realm's Merchants come here to buy these goods and then sell them at [Inis Ocular](/holdings/inis_ocular.qmd).
 
-## Trillium Baumuum
+## Trillium baumuum
 
-Strange radial __3 petalled and 3 stemmed__ flowers exist in the surrounding area (__Trillium Baumuum__; trillium is a flower, Frank Baum wrote the wizard of oz). 
+<center>
+![](/images/trillium_baumuum.png){style="width:200px; border-radius: 5px;"}
+</center>
+
+Strange radial __3 petalled and 3 stemmed__ flowers exist in the surrounding area (__Trillium baumuum__; trillium is a flower, Frank Baum wrote the wizard of oz). 
 Although they are beautiful with their __emerald petals__ and __glass like__ appearance they are __forbidden to be picked__. 
 
 The flowers are used by the __bee keepers__. 

@@ -4,36 +4,73 @@ A religion that existed when these lands where still part of the Eminent Realm.
 They praise the three emerald stars that lie at the very top of the night sky.
 They know these as "The Emerald Eyes" as they watch the lands, never moving with the other stars.
 
+The Emerald Eyes are in fact from The Star Myth (3-4).
+
+## Alien structures
+
 The religion believes the deep purple metal structures through the lands are gifts from the Emerald Eyes.
 These are indeed from the Emerald Eyes but not as gifts.
-The Emerald Eyes are in fact from The Star Myth (3-4).
+
 
 Structures include:
 
 - [The Gates](/holdings/bochordil.qmd#gate) at [Bochordil](/holdings/bochordil.qmd)
-- The Pyramid at Bochordil
-- The Forge rod at Fabriknock
+- [The Pyramid](/holdings/bochordil.qmd#pyramid) at [Bochordil](/holdings/bochordil.qmd)
+- [The Forge rod](/holdings/fabriknock.qmd#forge) at [Fabriknock](/holdings/fabriknock.qmd)
+
+## The Triad
 
 The religion is controlled by three main leaders, the Triad.
+Each is themed off a a different genus of the [Lamiales order](https://en.wikipedia.org/wiki/Lamiales) (i.e. the mint order).
 
-## Mentha the Mint
+__Creator note__: the first leader was originally called Dewyn the Sage. I therefore thought it would be a nice theming to use other "mints".
+
+### Mentha the Mint
 
 - One of the Triad (they/them)
 - Based in Inis Ocular
 
-## Salvia the Sage
+### Salvia the Sage
 
 - One of the Triad (he/him)
 - Based in Bochordil
 - Wields a deep purple sceptre ending in 3 prongs holding an orb shaped emerald.
 
-
-## Lavandula the Lavender
+### Lavandula the Lavender
 
 - One of te Triad (she/her)
 - Based in Klaegcasleen
 
-## Crabbe
+## Other members
+
+### Crabbe
 
 - Local leader at Fabriknock (he/him)
 
+## Alien flowers
+
+Aside from the alien structures the aliens also planted the glass flowers in the realm.
+The religion has no idea they are related to the "Emerald Eyes" thinking they are a normal part of nature.
+
+The flowers are:
+
+- [Trillium Baumuum](/holdings/fabriknock.qmd#trillium-baumuum)
+    - Found outside the walls of [Fabriknock](/holdings/fabriknock.qmd)
+    - Kept bees feed on the pollen
+        - Produce a <span style='color: #dfff00;'>chartreuse</span> honey
+        - Bees end up growing a green emerald inside their body
+- [Trillium Blaschkanum](/holdings/inis_ocular.qmd#trillium-blaschkanum)
+    - Found at the garden of [Inis Ocular](/holdings/inis_ocular.qmd)
+    - Leaves fed to silk moth larvae which produce green, deep purple, and yellow silk.
+- [Trillium wellsii](/holdings/bochordil.qmd#trillium-wellsii)
+    - Found at the top of the crag at [Borchordil](/holdings/bochordil.qmd)
+    - Bees feed on its pollen
+        - Honey used to create an intoxicating mead
+        - Royal jelly used to create a flawless floral perfume
+
+
+<center>
+![](/images/trillium_baumuum.png){style="width:200px; border-radius: 5px;"}
+![](/images/trillium_blaschkanum.png){style="width:200px; border-radius: 5px;"}
+![](/images/trillium_wellsii.png){style="width:200px; border-radius: 5px;"}
+</center>

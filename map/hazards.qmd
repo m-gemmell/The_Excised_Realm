@@ -1,0 +1,16 @@
+# Hazards
+
+## H1
+
+- Pouncing spiders
+- R7-C4
+
+## H2
+
+- Hopeless climb
+- R4-C3
+
+## H3
+
+- Spiked wall
+- R6-C8

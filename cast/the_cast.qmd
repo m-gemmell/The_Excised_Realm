@@ -2,53 +2,53 @@
 
 ## Klaegcasleen (Kla-cleen)
 
-- The Ghoul Knight (he/him) 6-6
+- [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) (he/him) 6-6
     - Head of seat of power 
     - Head of Repairers faction
-- The War Knight (she/her) 1-6
+- [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) (she/her) 1-6
     - Domain ruler
     - Leader of the reinforcement faction
-- The Fanged Knight (he/him) 6-10
+- [The Fanged Knight](/cast/klaegcasleen_knights.qmd#the-fanged-knight) (he/him) 6-10
     - Steward
     - Repairer faction
-- The Horn Knight (she/her) 2-11
+- [The Horn Knight](/cast/klaegcasleen_knights.qmd#the-horn-knight) (she/her) 2-11
     - Marshal
     - Repairer faction
-- Lavandula the Lavender (she/her)
-    - One of the three leaders of the “Emerald Lights”
+- [Lavandula the Lavender](/cast/the_emerald_lights.qmd) (she/her)
+    - One of the three leaders of [The Emerald Lights](/cast/the_emerald_lights.qmd)
 
 ## Wanderers
 
-- The Mule Knight (they/them) 4-6
+- [The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight) (they/them) 4-6
     - Sheriff of the realm
     - Helps both factions
-- The Bone Knight (she/her) 5-2
+- [The Bone Knight](/cast/wandering_knights.qmd#the-bone-knight) (she/her) 5-2
     - Envoy of the realm
     - Reinforcement faction
 
 ## Bochordil (Back-or-dill)
 
-- The Moat Knight (they/them) 3-4
+- [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) (they/them) 3-4
     - Ruler
-- The Rune Knight (she/her) 4-1
+- [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight) (she/her) 4-1
     - Apprentice scholar
-- Salvia the Sage (he/him)
+- [Salvia the Sage](/cast/the_emerald_lights.qmd#salvia-the-sage) (he/him)
     - One of the three leaders of the “Emerald Lights”
 
 ## Fabriknock (Fa-bree-knock)
 
-- The Leaf Knight (she/her) 6-3
+- [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) (she/her) 6-3
     - Ruler
-- Mr .Something (he/him)
+- [Mr .Something](/cast/fabriknock_vassals.qmd#mr.-something) (he/him)
     - Head guard
-- Turnebucke something (he/him)
+- [Turnebucke something](/cast/fabriknock_vassals.qmd#turnebucke-something) (he/him)
     - Guard and son of Mr. Something
-- Crabbe (they/them)
+- [Crabbe](/cast/the_emerald_lights.qmd#crabbe) (they/them)
     - Local leader of the Emerald Lights
 
 ## Inis Ocular (Inn-ish Awk-you-lar)
 
-- The Shield Knight (she/her) 2-8
+- [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) (she/her) 2-8
     - Ruler
-- Mentha the Mint (they/them)
+- [Mentha the Mint](/cast/the_emerald_lights.qmd#mentha-the-mint) (they/them)
     - One of the three leaders of the “Emerald Lights”

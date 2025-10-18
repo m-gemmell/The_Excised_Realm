@@ -1,0 +1,18 @@
+# Dwellings
+
+## D1
+
+- Meadowside camp
+- R1-C2
+
+## D2
+
+- Hot spring
+- R10-C9
+
+## D3
+
+- Guard's outpost
+- R8-C5
+
+

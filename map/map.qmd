@@ -1,0 +1,16 @@
+# Map
+
+<center>
+![](/images/excised_realms_map.png){style="width:1000px; border-radius: 5px;"}
+</center>
+
+## Key
+
+- Drawn structures: [Holdings](/holdings/holdings.qmd)
+- Circled numbers: [Myths](/map/myths.qmd)
+- D: [Dwellings](/map/dwellings.qmd)
+- S: [Sanctums](/map/sanctums.qmd)
+- M: [Monuments](/map/monuments.qmd)
+- H: [Hazards](/map/hazards.qmd)
+- C: [Curses](/map/curses.qmd)
+- R: [Ruins](/map/ruins.qmd)
