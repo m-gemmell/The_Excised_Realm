@@ -3,11 +3,11 @@
 ## Plan
 
 - Skip a few weeks to Spectremass
-- They have been resting a eating the <span style='color: #dfff00;'>chartreuse</span> __honey__, they are given abode at The Rainbow keep
+- They have been resting and eating the <span style='color: #dfff00;'>chartreuse</span> __honey__, they are given abode at The Rainbow keep
 - Although things have been quite quiet now they each get to ask a question from their investigations
 - [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) has left to [Klaegcasleen](/holdings/klaegcasleen.qmd) to renew their vow of loyalty to [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) as part of Spectremass
 
-Inciting event
+### Inciting event
 
 - The knights will awaken to a massive crashing sound
 - The Forge’s chimney like roof have collapsed as the green eyed seers steed hovers over the forge. Its 3 legs connect to the black rod (it is absorbing energy). The forges cool down by afternoon

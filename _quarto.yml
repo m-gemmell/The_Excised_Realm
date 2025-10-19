@@ -24,6 +24,7 @@ website:
       href: map/map.qmd
     - text: Sessions
       href: sessions/sessions.qmd
+    right:
     - icon: house-fill
       href: https://m-gemmell.github.io/
       aria-label: m-gemmell website

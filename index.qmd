@@ -5,6 +5,15 @@ title: "The Excised Realm"
 This is a website to host information on The Excised Realm for [Mythic Bastionland](https://bastionlandpress.com/products/mythic-bastionland-hardback-book-plus-pdf).
 This is mainly for my own personal use but if you happen to trek upon it I hope you find it useful.
 
+## Sections
+
+- [History](/history/first_age.qmd): The history of The Excised summarised per age.
+- [Cast](/cast/the_cast.qmd): The cast of The Excised realm including the Knights, Vassals, Vagabonds, Seers, and various groups.
+- [Holdings](/holdings/holdings.qmd): The holdings of the Excised realms.
+    - Whereas most locations and events have been left vague for emergent role play the holdings have been fleshed out before the first session.
+- [Map](/map/map.qmd): The map of the realm and its various locations including hex myths.
+- [Sessions](/sessions/sessions.qmd): Notes on the events of sessions and the plans for these sessions.
+
 ## Human made
 
 <center>
