@@ -55,6 +55,17 @@ A young but wary knight. She does not know who to trust and so is very hesitant 
 
 However, they are quite lively these days as weird goings on with killings are happening in their holding. This allows them to investigate.
 
+### Stats
+
+VIG: 9, CLA: 15, SPI 11
+
+GD: 5
+
+Hooked club (d8, hefty)
+
+Wield branches as javelins (d6) or Greatspear (d10 long) and eat leaves as a satisfying meal
+
+
 ## The Shield Knight
 
 <center>

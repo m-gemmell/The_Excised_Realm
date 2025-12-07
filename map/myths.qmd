@@ -1,39 +1,56 @@
 # Myths
 
-## The Inferno
+## Active
+
+### The Inferno
 
 - ID: 1
 - 6-4
 - Location: R11-C3
 
-## The Child
+### The Child
 
 - ID: 2
 - 1-8
 - Location: R1-C8
 
-## The Desert
+### The Desert
 
 - ID: 3
 - 3-2
 - Location: R3-C2
 
-## The Eagle
+### The Cudgel
+
+- ID: 4
+- 3-9
+- Location: R4-5
+
+### The Fortress
+
+- ID: 5
+- 5-2
+- Location: R2-C2
+
+### The Sprite
+
+- ID: 6
+- 5-11
+- Location: R6-C7
+- The Sprite is the sacrifice given to The River in the [first age of The Excised Realm](/history/first_age.qmd)
+
+## Resolved Myths
+
+
+### The Eagle
 
 - ID: 4
 - 4-10
 - Location: R2-C11
 - Omen 1: [Session one, Day 2 afternoon](/sessions/session_one.qmd#day-2-afternoon)
 - Omen 2: [Session one, Day 3 afternoon](/sessions/session_one.qmd#day-3-afternoon)
-
-## The Fortress
-
-- ID: 5
-- 5-2
-- Location: R-2-C2
-
-## The Sprite
-
-- ID: 6
-- 5-11
-- Location: R6-C7
+- Killed at 5-10 by the Green eyed seer in its tower. 
+    - [Session two, Day 2 afternoon](/sessions/session_two.qmd#day-2-afternoon)
+    - Struck by lightning it burnt up leaving only its bones behind. 
+    - The Knight company asked for this.
+- It will be a bad harvest year.
