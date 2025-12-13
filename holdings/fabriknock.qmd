@@ -42,7 +42,13 @@ These are extracted and used by the various makers in the workshops.
 ## Rainbow keep
 
 Inside the __Keep of multi coloured rocks__ they keep a __reliquary__. 
-This is the __whole skeleton of the Green Eyed Seer__. 
+Since the resurrection of the the Green Eyed seer and the other events of [The Terminator](/history/second_age.qmd#the-terminator) the reliuary is now the severed claw of the seer's steed/tower.
+The foot lays on its cut bottom, its 3 claws reaching up.
+It gives the impression of a 3 petalled deep purple flower standing 2 metres tall.
+
+### Pre-terminator
+
+The reliquary was the __whole skeleton of the Green Eyed Seer__. 
 It is of high significance for the [Emerald Lights](/cast/the_emerald_lights.qmd) religion who was seen as a sort of Demigod for their religion. 
 
 The skeleton looks like that of a __“little grey man”__. 
@@ -61,6 +67,11 @@ __Many__ of the holding want to __steal the skeleton__ of the Green Seer to give
 This seems to be turning into a __new religion that worships the sun__. 
 
 The other side follows the [Emerald Lights](/cast/the_emerald_lights.qmd) religion and so do not want their reliquary to be given away.
+
+A war between the factions occurred during the [The Terminator](/history/second_age.qmd#the-terminator).
+This left the Emerald lights victorious and the upstart religion was cast down.
+Members of the sun that did not die were sent to serve The Tangle knight whose caretakers died [see session 2 day 2 morning](/sessions/session_two.qmd#day-2-morning)
+Worse yet for the sun religion was the death of their religious entity The Eagle by The Green Eyed seer and The company of knights.
 
 ## Used Prompts
 

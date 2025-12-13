@@ -10,7 +10,7 @@ Where our game starts.
     - Deepwater The Violet Knight
     - Zephyr The Salt Knight
 
-### Terminator
+### The Terminator
 
 Terminator: The moving line that divides the daylit and dark night os a planetary body.
 
@@ -19,7 +19,8 @@ Terminator: The moving line that divides the daylit and dark night os a planetar
     - The reliquary was precious to the Emerald lights
     - The company of knights took it and offered it to the Steed of The green eyed seer
     - The seer revived and it and the tower assisted the Emerald lights in killing the eagle and its followers
-    - The COmpany are heroes to the Emerald lights but have upset The Leaf Knight
+    - Surviving sun worshippers were sent to be caretakers of [The Tangled Seer](/map/sanctums.qmd#s4)
+    - The Company are heroes to the Emerald lights but have upset The Leaf Knight
 
 <center>
 

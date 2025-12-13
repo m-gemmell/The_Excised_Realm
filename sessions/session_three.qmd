@@ -1,14 +1,24 @@
-# Session three
+# Session Three
 
 ## Plan
 
 - Seasonal time skip choice
     - Pilgrimage, Courtesy, or service (pg. 17)
+- Mention that the remaining sun worshippers were sent to the Tangled seer to be his caretakers
 - Feast of the stars
     - Night of honours, unions, and contests
-    - Takes place outside at the town centre.
-    - Currently the walls of the forge have been full taken down so they can be rebuilt
+    - Takes place outside at the town centre
+    - Currently the walls of the forge are fully taken down so they can be rebuilt
+    - Starts with [Mr. Something](/cast/fabriknock_vassals.qmd#mr.-something) reciting their [Terminator poem](/history/second_age.qmd#the-terminator)
+    - The green eyed seer gifts the deep purple metal claw severed from its steed/tower to be used as the reliquary
+        - Standing on its cut base with three equidistant claws reaching up gives the form of a massive metal flower.
     - The feast begins at sunset with the Green Eyed seer leaving to the skies
     - Ask Foxtrot if they want a new knight
         - If so The Leaf knight will challenge them to a duel to claim rulership of Fabriknock
         - Otherwise will still challenge for a duel but just for glory
+- Ongoing effect
+    - The sun is dim and the 4 green stars are bright.
+    - A poor harvest will occur and the knights controlling the realm will be unhappy with the Tithe.
+    - The Emerald lights adore the Company referring the company as __"The four that brought the fourth"__
+    - Other ruling knights and some vassals are not happy due to the company increasing the power of the emerald lights religion.
+        - Some will refer to them derisively as "The Terminators"
