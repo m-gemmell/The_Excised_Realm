@@ -32,15 +32,21 @@
 - 5-2
 - Location: R2-C2
 
+### The Apparatus
+
+- ID: 6
+- 6-11
+- Location: R7-C11
+
+## Resolved Myths
+
 ### The Sprite
 
 - ID: 6
 - 5-11
 - Location: R6-C7
 - The Sprite is the sacrifice given to The River in the [first age of The Excised Realm](/history/first_age.qmd)
-
-## Resolved Myths
-
+- All in [session three](/sessions/session_three.qmd)
 
 ### The Eagle
 

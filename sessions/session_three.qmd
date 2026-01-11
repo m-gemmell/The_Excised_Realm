@@ -22,3 +22,197 @@
     - The Emerald lights adore the Company referring the company as __"The four that brought the fourth"__
     - Other ruling knights and some vassals are not happy due to the company increasing the power of the emerald lights religion.
         - Some will refer to them derisively as "The Terminators"
+
+## Time skip to Feast of the Stars
+
+Between seasons tasks
+
+- The Silk Knight: They fixed the boat/fishing house in 4-11 helping provide enough food for Fabriknock during the poor harvest season
+    - They now know how to very effectively make nets
+- The Story Knight: They made a pilgrimage to Bachordil
+    - They learnt about the deep purple metal pyramid there and how The Emerald Lights use it as a church
+- The Violet Knight: Pilgrimage to Klaegcasleen
+    - Learnt about the The Citadel and how it is used for public events
+- The Salt Knight: Courtesy to the Tangled Seer
+    - Brought the remnants of the sun religion as its caretakers and helped rebuild its sanctum
+    - The seers are pleased with The Salt Knight
+    
+## The Feast of Stars
+
+- Main things listed in plan above
+- The Violet Knight is challenged to a duel by The Leaf Knight
+    - The winner will gain a boon from the other
+    - The Leaf Knight's condition is that they can only fight with sticks
+    - The Violet Knight's condition is they can only fight in the dark
+    - The Violet Knight using their UV vision beats the Leaf Knight and gouges out one of her eyes (mortal wound)
+    - The town leave her for dead celebrating The Violet Knight but The Salt Knight and The Silk Knight patch up the now one eyed Leaf Knight
+- The Violet Knight's boon? To become ruler of Fabriknock and so The Leaf Knight joins the company
+
+## Leaving town
+
+- As the company leaves town, being seen off by The Violet Knight they encounter The Bone Knight
+- She is escorting potters to make a new clay brick forge building
+- She quickly greets the company, shocked to see The Leaf knight has joined them and Teh Violet Knight has taken over Fabriknock
+- The Knights meet [Bray](/cast/klaegcasleen_vassals.qmd#bray) & [Hygo](/cast/fabriknock_vassals.qmd#hygo), master and apprentice potter come to fix the forge building.
+    - Bray asks the Knights to investigate the cliffs at 10-9 to see if their are deposits of blue clay
+
+## Day 1 morning
+
+6-11
+
+- The Sprite omen 2
+- The ol girl o the pond falls in love with The Salt Knight
+- The ol girl asks many questions of The Salt Knight
+- They are friendly to the ol girl
+
+## Day 1 afternoon
+
+6-10
+
+- Nothing of note
+
+## Day 1 night
+
+6-10
+
+- The company rests
+- Story Knight stories in relation to 10-11
+    - Once upon a time a company of knights were felled there, bodies still resting (TRUE)
+        - These are Seeker Knights sent by [The War Knight](/cast/klaegcasleen_knights.qmd#the-war-knight) to look for her real child (The Child myth)
+    - In the future a deep purple metal construct will land there (FALSE)
+
+## Day 2 morning
+
+6-9
+
+- The Cudgel omen 1
+- The company happen upon a tower made of bound cut tree where a duchess of sleep and dreams lives
+- One guard who is heavily sleep deprived wants to leave to find a nearby hawkleon who may know of the whereabouts of The Cudgel
+    - The Hawkleon has the hoof of a hippopotamus, the tail of cat and head of a tiger supposedly
+- They talk to duchess who recounts ridiculous dreams
+- Knights leave telling the duchess to hire more guards
+
+## Day 2 afternoon
+
+5-9
+
+- They speak to the Tangled seer who tells them about the ol girl o the pond (The Sprite)
+    - She was sacrificed by the river cult to stop The River Myth at 6-7 (The oxbow lake)
+    - She loves with passion then discards
+
+## Day 2 night
+
+5-9
+
+- The story knight tells tales of 5-8
+    - A group of knights will see a Hawkleaon (TRUE)
+    - Its under a terrible curse (FALSE)
+
+## Day 3 morning
+
+5-8
+
+- The company meet the Hawkleon
+- It speaks with them and they ask it if it knows the whereabouts of the Cudgel
+- It gives them the riddle "The big moron and the little moron stood on the edge of a cliff. The big moron fell off, why didn't the little moron fall?"
+    - The Story Knight gives the correct answer "Because he was a little more on the cliff"
+- As a reward the Hawkleon say he will guide The Story Knight to the nearby cudgel but only he can go
+- The Leaf Knight follows stealthily in the forest
+- Once far enough awy The Hawkleon pounces on The Story Knight but the Leaf knight is able to join from hiding
+- Together they mortally wound The Hawkleon
+- The Silk knight uses their silk to mend its broken leg and it tells them the cudgel will let you know the location of your enemies
+- It also gifts them its feathers that scare away all birds and cats
+- It promises it will not attack them again but what is the word of a Hawkleon worth?
+
+This moves The Cudgel myth so the next will be omen 4
+
+## Day 3 afternoon
+
+6-7, The Sprite's myth hex at the ox bow lake
+
+- The Sprite omen 3
+- The ol girl offers to gift The Salt Knight anything
+- The Salt knight asks for a sword that can go on fire
+
+## Day 3 night
+
+6-7, The Sprite's myth hex at the ox bow lake
+
+- The Sprite's myth hex
+- The Sprite omen 4
+    - Watery being arguing over who is loved by the ol girl
+- The Story knight tales of 3-7
+    - There is an immortal guardian guarding the ford (TRUE)
+    - Someone placed a stone with a riddle of a myth here (FALSE)
+
+### Goat Troll
+
+A talking goat of dull intelligence but massive build
+A gnarly green arm growing out of its back (The Troll myth 2-6)
+Constantly eating vegetation
+
+VIG 16, CLA 10, SPI 5, 5GD
+A1 Thick hides
+Horns (2d8), Giant cudgel, i.e. Small tree (2d10)
+Can smite
+Regains d6 VIG at the start of its turn except for fire damage
+
+## Day 4 morning
+
+7-7, Curse: gorge of sorrow
+
+- the Sprite omen 5
+    - The ol girls hands raised out of a pond, offering Fire brand to The Salt Knight
+        - Fire brand: 2d10 greatsword, can use smite to light it aflame for the rest of combat (instead of other 2 options). Deals an extra d6 fire damage when aflame.
+
+## Day 4 afternoon
+
+7-7, Curse: gorge of sorrow
+
+- The company search finding a cave.
+- Within is a dead herald from the Crown Myth
+- The Story Knight blows the envoy's horn succeeding in pass a vigour save
+- The horn and skeleton disintegrate and the curse of the hex is lifted
+
+## Day 4 night
+
+7-7
+
+- The story Knight's tales of 8-9
+    - It was once the home of a family of giants (FALSE)
+    - A great challenge set there by the residents of Klaegcasleen (TRUE) The Mule Knight awaits to test the Knights
+
+## Day 5 morning
+
+7-8
+
+- Nothing of note
+
+## Day 5 afternoon
+
+8-9
+
+- Sprite last omen
+- The ol girl returns to take back Firebrand
+- She takes the sword and fight The Salt Knight
+- Water beings block the other knights but are vanquished by the other knights
+- The Salt knight vanquishes The ol girl and they all gain a glory for their participation of the myth
+- The mule knight introduces himself and thinks them worthy to enter Klaegcasleen
+
+## Time skip to winter
+
+- Story Knight
+    - Courtesy with the War Knight
+- The Leaf Knight
+    - Courtesy with The Ghoul Knight
+- The Salt Knight and The Silk Knight
+    - Pilgrimage to find the blue clay at 10-11
+    - Service to set up mining operations for the blue clay
+
+
+
+
+
+
+
+

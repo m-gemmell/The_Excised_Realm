@@ -5,10 +5,16 @@
 
 // Colors
 $dark-grey: #252a34;
+
 $mb-light: #a7a984;
-$mb-medium: #5c6641;
 $mb-dark: #18262e;
 $mb-teal: #24635b;
+$mb-medium: #5c6641;
+
+// ditherit.com palette
+// [{"hex":"#a7a984"},{"hex":"#18262e"},{"hex":"#24635b"},{"hex":"#5c6641"}]
+// Bayer (Ordered) with Pixelness 3
+
 
 // Base document colors
 $navbar-bg: $mb-medium;

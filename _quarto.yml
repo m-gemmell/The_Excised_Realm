@@ -65,6 +65,7 @@ website:
     - section: Vassals
       contents:
       - href: cast/the_emerald_lights.qmd
+      - href: cast/klaegcasleen_vassals.qmd
       - href: cast/fabriknock_vassals.qmd
   - id: Holdings
     title: Holdings
@@ -98,6 +99,7 @@ website:
     - href: sessions/session_one.qmd
     - href: sessions/session_two.qmd
     - href: sessions/session_three.qmd
+    - href: sessions/session_four.qmd
 format:
   html:
     mainfont: Caudex

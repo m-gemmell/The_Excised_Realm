@@ -1,0 +1,90 @@
+# Session Four
+
+## Plan
+
+- Drama in court
+- Possibly Knights will go to 10-11, a site where The child is.
+
+## Start scenes
+
+### The Story Knight and The War Knight
+
+> Frost and crumbled clay crunches under your feet.
+> The blue and brown over the salt and pepper ground adds a contrast of beauty to the wreckage of the surrounding buildings.
+> Workers move quickly repairing the large citadel with teal bricks.
+> They hurry hoping to fix their own abodes before the chill of winter makes itself at home.
+
+> Beside you walks a tall knight adorned in a jade gambeson.
+> Her silver hair falls across her like ashened willow leaves. 
+> Surveilling the work and damage she wears an unsuppressed frown before she turns to you.
+> She truly looks at you.
+> As she does you see the eyes of someone whose hopes have been been constantly stamped on but never extinguished.
+> With a flat unreadable voice she speaks with you.
+
+- [The War Knight](/cast/klaegcasleen_knights.qmd#the-war-knight)
+- Asks The Story Knight what they think of the scene.
+- Will speak of the Schism and Brickfall.
+- Will ask The Story Knight to try to figure out the power of The Horn Knight.
+- Lastly: Will tell The Story Knight that The Ghoul Knight is holding her son hostage.
+
+### The Leaf Knight and The Ghoul Knight
+
+> The boat sways gently in the bay.
+> On one side snow topped cliffs, the other rolling hills.
+> Across from you is The Ghoul Knight.
+> He wears white furs on top of crocodilian leathers on top of purple silks.
+> Even stranger than him is a sullen boy quietly and meticulously inspecting a wooden lion cub.
+
+> The Ghoul Knight invites you to fish.
+> With rod in hand he reels them in as you wait with net in hand.
+> Every caught fish is judged by The Ghoul Knight.
+> Whatever the decision he throws it into the air for one of three fates.
+> It lands in the water to freedom.
+> It is caught by a guard in one of the various boats.
+> Or, it is shot by one of the many archers.
+> The signals are imperceptible to you.
+> During all this he talks at you.
+
+- [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight)
+- Tells his disappointment of what took place in Fabriknock.
+- The Emerald Lights are becoming bold, Lavandula talks of creating a place at the seat of power for her and then having someone replace their role, making a possible tetrad (4).
+    - The Ghoul Knight is wary of The Violet Knight who has not been part of Spectremass yet (not made vow of loyalty to the kingdom).
+- Although Fabriknock found sources of food for itself and the Tithe Bochrodil and Inis Ocular were not so lucky and are struggling.
+    - Bochordil will be weakened and more susceptible to attack from The Eminent realm
+    - Trade with other realms will suffer through Inis Ocular having to eat the food they would otherwise trade.
+- Mission request: Fabriknock is a lost cause. Discreetly remove Mentha from Inis Ocular. In return I will send The Rune Knight to rule Inis Ocular and send The Shield Knight to Bochordil.
+- Ends in a coughing fit which the boy does not react too.
+
+### The Salt Knight and The Silk Knight
+
+> The waves gently rock your boat as you inspect the cliffs, hoping to spot a blue clay.
+> Behind you barely see the teal bricked citadel of Klaegcasleen and ahead you spot the observatory of Inis Ocular.
+> The days are getting shorter, the sun getting dimmer, whilst those four emerald stars get brighter and impede on the day sky.
+
+> You both, The Salt Knight and The Silk Knight, sit in one boat.
+> In another is The Bone Knight, her afro bobbing with the waves, beside Bray, the old melancholic master potter.
+
+> The Salt Knight, running their fingers in the cold and salty water gets a sudden feeling.
+> Signalling to stop the boats, you all disembark.
+> The Silk Knight, finding a lump of clay , uses her silk like a cheese cloth.
+> The cross section reveals a blue clay with a preserved ammonite, perfectly cut in 2.
+
+> Beaming, Bray rushes over, digging out the fossils and dropping them to the ground.
+> He ecstatically digs deeper, all the clay blue, and announces they have found what they needed.
+> The Bone Knight quietly picks up the fossils giving you one half each and whispers "good job".
+
+- After revelry [The Bone Knight](/cast/wandering_knights.qmd#the-bone-knight) enters the shared tent of the Knights.
+- She offers to give them information if they trade a bone for a bone (1 trade each).
+    - She will give them a piece of information about one Knight or location they want.
+    - She has her box of bones and her Bone Magnate ability
+    - Knights: Ghoul, War, Fanged, Horn, Mule, Shield, Rune, Moat
+
+## Plan for session
+
+- Go through the three events of Winter, allowing scenes of the Knights going through courtly drama.
+    - Feast of the moon
+    - Kindlemass
+    - Levy
+- This link gives good structure on what to do during feast of the moon and Kindlemass
+    - https://www.bastionland.com/2025/09/mythic-feasts.html
+- AT end possibly lead into investigating the Child with a site at the myth hex the next session

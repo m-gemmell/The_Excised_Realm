@@ -3,7 +3,7 @@
 ## The Moat Knight
 
 <center>
-![](/images/The_Moat_Knight.png){style="width:150px; border-radius: 5px;"}
+![](/images/moat_knight_dither.png){style="width:350px; border-radius: 5px;"}
 </center>
 
 - 3-4
@@ -20,7 +20,7 @@ They are a human of science and facts. They despise [Salvia the Sage](/cast/the_
 ## The Rune Knight
 
 <center>
-![](/images/The_Rune_Knight.png){style="width:150px; border-radius: 5px;"}
+![](/images/rune_knight_dither.png){style="width:350px; border-radius: 5px;"}
 </center>
 
 - 4-1
@@ -40,7 +40,7 @@ This has caused The Rune Knight to become a people pleaser and try to stay out o
 ## The Leaf Knight
 
 <center>
-![](/images/The_Leaf_Knight.png){style="width:150px; border-radius: 5px;"}
+![](/images/leaf_knight_dither.png){style="width:300px; border-radius: 5px;"}
 </center>
 
 - 6-3
@@ -69,7 +69,7 @@ Wield branches as javelins (d6) or Greatspear (d10 long) and eat leaves as a sat
 ## The Shield Knight
 
 <center>
-![](/images/The_Shield_Knight.png){style="width:150px; border-radius: 5px;"}
+![](/images/shield_knight_dither.png){style="width:200px; border-radius: 5px;"}
 </center>
 
 - 2-8

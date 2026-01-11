@@ -3,7 +3,7 @@
 ## The Ghoul Knight
 
 <center>
-![](/images/The_Ghoul_Knight_complete.png){style="width:150px; border-radius: 5px;"}
+![](/images/ghoul_knight_dither.png){style="width:200px; border-radius: 5px;"}
 </center>
 
 - 6-6
@@ -24,7 +24,7 @@ Any chance he gets he will go fishing on the peninsula. He’ll always bring [Th
 ## The War Knight
 
 <center>
-![](/images/The_War_Knight.png.){style="width:150px; border-radius: 5px;"}
+![](/images/war_knight_dither.png){style="width:300px; border-radius: 5px;"}
 </center>
 
 - 1-6
@@ -37,14 +37,14 @@ Any chance he gets he will go fishing on the peninsula. He’ll always bring [Th
 
 At court she wears her jade gambeson dress showing her flowing silver hair. However, her helm with her long mail hood is never far. She speaks with a flat voice to disguise her emotions. She deeply cares for the people of the realm and doesn’t agree with [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight).
 
-[The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) knows the ginger child that [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) holds hostage is not her real child. Her real child was stolen by The Burning Mother and so [The War Knight's](/cast//klaegcasleen_knights.qmd#the-war-knight) child is [The Child](/map/myths.qmd#the-child) in the myth. Although she knows the myth hex location she does not go near, nor easily share the info, in case [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) interferes.
+[The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) knows the ginger child that [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) holds hostage is not her real child. Her real child was stolen by The Burning Mother and so [The War Knight's](/cast//klaegcasleen_knights.qmd#the-war-knight) child is [The Child](/map/myths.qmd#the-child) in the myth. The child, like her mother is silver haired. Although she knows the myth hex location she does not go near, nor easily share the info, in case [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) interferes.
 
 [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) wants the truth but is self bound by her knightly oath.
 
 ## The Fanged Knight
 
 <center>
-![](/images/The_Fanged_Knight.png){style="width:150px; border-radius: 5px;"}
+![](/images/fanged_knight_dither.png){style="width:250px; border-radius: 5px;"}
 </center>
 
 - 6-10
@@ -62,7 +62,7 @@ Although they love what [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-gh
 ## The Horn Knight
 
 <center>
-![](/images/The_Horn_Knight.png){style="width:150px; border-radius: 5px;"}
+![](/images/horn_knight_dither.png){style="width:250px; border-radius: 5px; ; background: #18262e"}
 </center>
 
 - 2-11

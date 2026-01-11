@@ -4,15 +4,43 @@ This section contains notes on the sessions I ran.
 
 ## Players
 
+- Foxtrot
+    - Oak [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight)
+        - Session three - present
+    - Deepwater The Violet Knight
+        - Session one - Session three, Character became an NPC when they took over rule of Fabriknock from The Leaf Knight
 - India
     - Nettle The Story Knight
-        - Session one - present
-- Mike
-    - Sarover The Silk Knight
-        - Session one - present
-- Foxtrot
-    - Deepwater The Violet Knight
         - Session one - present
 - Lima
     - Zephyr The Salt Knight
         - Session one - present
+- Mike
+    - Sarover The Silk Knight
+        - Session one - present
+
+
+
+## Knights
+
+<center>
+![The Leaf Knight](/images/leaf_knight_dither.png){style="width:200px; border-radius: 5px;"}
+</center>
+
+<center>
+![The Story Knight](/images/story_knight_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
+
+<center>
+![The Salt Knight](/images/salt_knight_dither_2.png){style="width:250px; border-radius: 5px;"}
+</center>
+
+<center>
+![The Silk Knight](/images/silk_knight_dither.png){style="width:200px; border-radius: 5px;"}
+</center>
+
+## Previous Player Knights
+
+<center>
+![The Violet Knight](/images/violet_knight_dither.png){style="width:250px; border-radius: 5px;"}
+</center>

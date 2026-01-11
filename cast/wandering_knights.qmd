@@ -3,7 +3,7 @@
 ## The Mule Knight
 
 <center>
-![](/images/The_Mule_Knight.png){style="width:150px; border-radius: 5px;"}
+![](/images/mule_knight_dither.png){style="width:250px; border-radius: 5px;"}
 </center>
 
 - 4-6
@@ -21,7 +21,7 @@ Once a protege painter in the castle, [The Mule Knight's](/cast/wandering_knight
 ## The Bone Knight
 
 <center>
-![](/images/The_Bone_Knight.png){style="width:150px; border-radius: 5px;"}
+![](/images/bone_knight_dither.png){style="width:250px; border-radius: 5px;"}
 </center>
 
 - 5-2
