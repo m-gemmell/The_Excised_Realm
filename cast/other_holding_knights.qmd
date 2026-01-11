@@ -37,6 +37,50 @@ This has caused The Rune Knight to become a people pleaser and try to stay out o
 
 [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight) sees [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) as her sister but gives her space since [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) seems to hate her.
 
+## The Violet Knight
+
+<center>
+![The Violet Knight](/images/violet_knight_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
+
+- 5-4
+- Ruler of [Fabriknock](/holdings/fabriknock.qmd) (he/him)
+- Young
+- Was part of the Original company of knights (player knights)
+- Flattering handmirror: Show's the viewer the ideal vision of themselves
+
+They are adored by the emerald lights and they adore them back.
+
+They became the leader of Fabriknock by winning a duel against the previous leader, [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight).
+This was during [The Terminator](/history/second_age.qmd#the-terminator) event.
+
+
+### Stats
+
+VIG: 12, CLA: 7, SPI 10
+
+GD: 9
+
+Grand mace (d10, long), Gagger (d6), SHortsword (d6)
+
+## The Shield Knight
+
+<center>
+![](/images/shield_knight_dither.png){style="width:200px; border-radius: 5px;"}
+</center>
+
+- 2-8
+- “Ruler” of [Inis Ocular](/holdings/inis_ocular.qmd) (she/her)
+- Old
+- Mother of The Rune Knight
+- Soothing salve: aroma of meat, side effect of lethargy
+
+[The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) is a weathered old woman wearing crude dresses. She only wears dresses from her lost realm, emblazoned with parallel lines that connect, representing the circular path of their previous nomadic life. This is the same realm [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) came from, The Itinerant Realm (see [History](/history/first_age.qmd)).
+
+Her voice is strong and terse yet her writing voice is sweet and gentle. She regularly writes to her lover ([The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight)) and their daughter ([The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight)). Although she knows [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) hates [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight) she is an adoring ally of [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight). Nothing would make her happier than seeing those two acting like loving sisters rather than fighting sisters.
+
+Above all [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) wishes for the “Temple” at [Bochordil](/holdings/bochordil.qmd) to be destroyed. Maybe then [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) would pay more attention to her and it would really stick it to the [Emerald Lights](/cast/the_emerald_lights.qmd).
+
 ## The Leaf Knight
 
 <center>
@@ -44,7 +88,7 @@ This has caused The Rune Knight to become a people pleaser and try to stay out o
 </center>
 
 - 6-3
-- Ruler of [Fabriknock](/holdings/fabriknock.qmd) (she/her)
+- Ex-ruler of [Fabriknock](/holdings/fabriknock.qmd) (she/her)
 - Young
 - Daughter of [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) and [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight)
 - Useful stick: terrifies snake, eels, and worms but only works in bright sunlight
@@ -64,22 +108,3 @@ GD: 5
 Hooked club (d8, hefty)
 
 Wield branches as javelins (d6) or Greatspear (d10 long) and eat leaves as a satisfying meal
-
-
-## The Shield Knight
-
-<center>
-![](/images/shield_knight_dither.png){style="width:200px; border-radius: 5px;"}
-</center>
-
-- 2-8
-- “Ruler” of [Inis Ocular](/holdings/inis_ocular.qmd) (she/her)
-- Old
-- Mother of The Rune Knight
-- Soothing salve: aroma of meat, side effect of lethargy
-
-[The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) is a weathered old woman wearing crude dresses. She only wears dresses from her lost realm, emblazoned with parallel lines that connect, representing the circular path of their previous nomadic life. This is the same realm [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) came from, The Itinerant Realm (see [History](/history/first_age.qmd)).
-
-Her voice is strong and terse yet her writing voice is sweet and gentle. She regularly writes to her lover ([The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight)) and their daughter ([The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight)). Although she knows [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) hates [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight) she is an adoring ally of [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight). Nothing would make her happier than seeing those two acting like loving sisters rather than fighting sisters.
-
-Above all [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) wishes for the “Temple” at [Bochordil](/holdings/bochordil.qmd) to be destroyed. Maybe then [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) would pay more attention to her and it would really stick it to the [Emerald Lights](/cast/the_emerald_lights.qmd). 

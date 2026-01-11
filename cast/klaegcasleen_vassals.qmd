@@ -4,6 +4,10 @@
 
 ### Bray
 
+<center>
+![](/images/bray_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
+
 An old potter, he is melancholic yet always talking. 
 His finger tips are stained blue through his constant use of blue clay.
 He is part of the [Gaulters faction](/holdings/klaegcasleen.qmd#potters).
@@ -14,3 +18,17 @@ He asked the knights to check the cliffs at 10-9 for blue clay.
 The Silk Knight and Salt Knight set up a successful blue clay mining operation at the cliffs through pilgrimage and service [Session three](/sessions/session_three.qmd).
 
 Their apprentice was [Hygo](/cast/fabriknock_vassals.qmd#hygo) who now lives in [Fabriknock](/holdings/fabriknock.qmd).
+
+### Aiden 
+
+<center>
+![](/images/war_child_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
+
+- Name etymology is related to fire
+- Ginger strange child
+- Everybody thinks this is the child of [The War Knight](/cast/klaegcasleen_knights.qmd#the-war-knight)
+- Kept hostage by [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight)
+- Actually the sun of The Burning MOther from [The Child Myth](/map/myths.qmd#the-child)
+- The War Knight's real child is now the Promised child from the myth
+- [The War Knight](/cast/klaegcasleen_knights.qmd#the-war-knight) knows all the above

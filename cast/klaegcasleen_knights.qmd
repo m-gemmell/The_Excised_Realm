@@ -13,7 +13,7 @@
 - Head of Repairers faction
 - Bearded axe (d10 long) and dusty mail (A1)
 
-[The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) holds a wooden lion cub that they stole from [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight). This symbolises [The War Knight's](/cast//klaegcasleen_knights.qmd#the-war-knight) child that [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) holds hostage.
+[The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) holds a wooden lion cub that they stole from [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight). This symbolises [The War Knight's](/cast//klaegcasleen_knights.qmd#the-war-knight) child, [Aiden](/cast/klaegcasleen_vassals.qmd#aiden), that [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) holds hostage.
 
 [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) stands out even amongst Knights & Seers. His attire consists of various eclectic fabrics, styles, and colours. He speaks with a booming and passionate voice. However, his speeches are always cut short with violent coughing fits.
 
@@ -37,7 +37,7 @@ Any chance he gets he will go fishing on the peninsula. He’ll always bring [Th
 
 At court she wears her jade gambeson dress showing her flowing silver hair. However, her helm with her long mail hood is never far. She speaks with a flat voice to disguise her emotions. She deeply cares for the people of the realm and doesn’t agree with [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight).
 
-[The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) knows the ginger child that [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) holds hostage is not her real child. Her real child was stolen by The Burning Mother and so [The War Knight's](/cast//klaegcasleen_knights.qmd#the-war-knight) child is [The Child](/map/myths.qmd#the-child) in the myth. The child, like her mother is silver haired. Although she knows the myth hex location she does not go near, nor easily share the info, in case [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) interferes.
+[The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) knows the ginger child. [Aiden](/cast/klaegcasleen_vassals.qmd#aiden), that [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) holds hostage is not her real child. Her real child was stolen by The Burning Mother and so [The War Knight's](/cast//klaegcasleen_knights.qmd#the-war-knight) child is [The Child](/map/myths.qmd#the-child) in the myth. The child, like her mother is silver haired. Although she knows the myth hex location she does not go near, nor easily share the info, in case [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) interferes.
 
 [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) wants the truth but is self bound by her knightly oath.
 

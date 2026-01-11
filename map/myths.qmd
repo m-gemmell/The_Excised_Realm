@@ -10,9 +10,15 @@
 
 ### The Child
 
+<center>
+![](/images/child_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
+
+
 - ID: 2
 - 1-8
 - Location: R1-C8
+- The real child of [The War Knight](/cast/klaegcasleen_knights.qmd#the-war-knight)
 
 ### The Desert
 
@@ -42,6 +48,10 @@
 
 ### The Sprite
 
+<center>
+![](/images/sprite_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
+
 - ID: 6
 - 5-11
 - Location: R6-C7
@@ -49,6 +59,10 @@
 - All in [session three](/sessions/session_three.qmd)
 
 ### The Eagle
+
+<center>
+![](/images/eagle_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
 
 - ID: 4
 - 4-10

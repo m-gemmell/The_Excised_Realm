@@ -11,7 +11,6 @@ The Emerald Eyes are in fact from The Star Myth (3-4).
 The religion believes the deep purple metal structures through the lands are gifts from the Emerald Eyes.
 These are indeed from the Emerald Eyes but not as gifts.
 
-
 Structures include:
 
 - [The Gates](/holdings/bochordil.qmd#gate) at [Bochordil](/holdings/bochordil.qmd)
@@ -27,16 +26,28 @@ __Creator note__: the first leader was originally called Dewyn the Sage. I there
 
 ### Mentha the Mint
 
+<center>
+![](/images/mentha_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
+
 - One of the Triad (they/them)
 - Based in Inis Ocular
 
 ### Salvia the Sage
+
+<center>
+![](/images/salvia_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
 
 - One of the Triad (he/him)
 - Based in Bochordil
 - Wields a deep purple sceptre ending in 3 prongs holding an orb shaped emerald.
 
 ### Lavandula the Lavender
+
+<center>
+![](/images/lavandula_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
 
 - One of te Triad (she/her)
 - Based in Klaegcasleen
