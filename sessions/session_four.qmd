@@ -36,7 +36,7 @@
 > Even stranger than him is a sullen boy quietly and meticulously inspecting a wooden lion cub.
 
 > The Ghoul Knight invites you to fish.
-> With rod in hand he reels them in as you wait with net in hand.
+> With rod in hand he reels them in as you wait with net.
 > Every caught fish is judged by The Ghoul Knight.
 > Whatever the decision he throws it into the air for one of three fates.
 > It lands in the water to freedom.
@@ -58,15 +58,15 @@
 ### The Salt Knight and The Silk Knight
 
 > The waves gently rock your boat as you inspect the cliffs, hoping to spot a blue clay.
-> Behind you barely see the teal bricked citadel of Klaegcasleen and ahead you spot the observatory of Inis Ocular.
-> The days are getting shorter, the sun getting dimmer, whilst those four emerald stars get brighter and impede on the day sky.
+> Behind, you barely see the teal bricked citadel of Klaegcasleen and ahead you spot the observatory of Inis Ocular.
+> The days are getting shorter, the sun getting dimmer, whilst those four emerald stars get brighter and impede on the heavens.
 
 > You both, The Salt Knight and The Silk Knight, sit in one boat.
 > In another is The Bone Knight, her afro bobbing with the waves, beside Bray, the old melancholic master potter.
 
 > The Salt Knight, running their fingers in the cold and salty water gets a sudden feeling.
 > Signalling to stop the boats, you all disembark.
-> The Silk Knight, finding a lump of clay , uses her silk like a cheese cloth.
+> The Silk Knight, finding a lump of clay , uses her silk like cheese wire.
 > The cross section reveals a blue clay with a preserved ammonite, perfectly cut in 2.
 
 > Beaming, Bray rushes over, digging out the fossils and dropping them to the ground.
@@ -81,10 +81,27 @@
 
 ## Plan for session
 
+- Flashback
+    - When the Mule knight first brought them to Klaegcasleen they had their portraits drawn.
+    - The Knights have their portrait painted (see [paintings](/holdings/klaegcasleen.qmd#paintings))
 - Go through the three events of Winter, allowing scenes of the Knights going through courtly drama.
-    - Feast of the moon
-    - Kindlemass
-    - Levy
+- Feast of the moon
+    - "Ceremony: The wisest elders of the Realm are gathered to speak of the glorious dead, those who built the world as we know it. The ruler may honour a few of the recently deceased to be named amongst these legendary figures."
+        - The Emerald lights list their followers who died at Fabriknock. [The Fanged Knight](/cast/klaegcasleen_knights.qmd#the-fanged-knight) list the others who died at Farbiknock. 
+    - "Spectacle: Great bonfires are lit, believing the dead can see the living world if they burn bright enough. People are encouraged to shout messages to departed loved ones and to curse vanquished enemies."
+        - Bonfires at the bottom of the hill of Klaegcasleen. Dead can see the living world due to bonfires. People shout messages to departed loved ones and curse vanquished enemies.
+    - "Revelry: All are encouraged to act as if it were their last night alive, so no amount of decadence is off the table. Of all the feasts, this one is especially suited to the dark."
+        - All eat at the great hall in blue candle light.
+        - Music, shows and plays take place on the theatre-in-the-round. Ask players for one show each.
+- Time skip. Each player gets a scene they want to enact. Ask what they want to discover and ensure they receive some form of answer.
+- Kindlemass
+    - "Ceremony: In the morning every fire in the home is lit, as the dull midday sees the doors theatrically cast open for any guests who wish to visit. The rest defies planning, and friends and enemies alike use this custom as a means to spring surprises."
+    - "Spectacle: Hosts are expected to provide gifts to visitors, with the most elaborate gifts strategically held back for the most important guests. Hosts are also expected to humble themselves with an embarrassing performance or game, with rulers often acting as servant to their own vassals! The wise know that there is a sweet spot with how much to play along with this custom."
+    - "Revelry: While quantity of food may be limited, presentation is key here, with even humble provisions dressed up to resemble mythical beasts or famous landmarks. Strong, hot drinks are the order of the day. While the doors are open to all, only a few are typically invited to stay the night."
 - This link gives good structure on what to do during feast of the moon and Kindlemass
     - https://www.bastionland.com/2025/09/mythic-feasts.html
-- AT end possibly lead into investigating the Child with a site at the myth hex the next session
+- Time skip. Each player gets a scene they want to enact. Ask what they want to discover and ensure they receive some form of answer.
+- Levy: Company tasked to go to the Gault cliffs and Inis Ocular to collect goods.
+    - They will be given 2 large boats with 3 boatmen total.
+        - [Klaegcasleen boatmen](/cast/klaegcasleen_vassals.qmd#boatmen)
+    - Forebode the child in some way.
