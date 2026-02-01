@@ -11,7 +11,6 @@
 - Old
 - Situated in [Klaegcasleen](/holdings/klaegcasleen.qmd)
 - Head of Repairers faction
-- Bearded axe (d10 long) and dusty mail (A1)
 
 [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) holds a wooden lion cub that they stole from [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight). This symbolises [The War Knight's](/cast//klaegcasleen_knights.qmd#the-war-knight) child, [Aiden](/cast/klaegcasleen_vassals.qmd#aiden), that [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) holds hostage.
 
@@ -20,6 +19,18 @@
 He is the ruler of the realm and his focus is on its security from internal and external threats. His de facto tactic is to demand obedience through fear. Easy with vassals but he knows other methods are needed with knights. Unfortunately, even he must honour the Seers.
 
 Any chance he gets he will go fishing on the peninsula. He’ll always bring [The War's Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) child on these excursions.
+
+### Stats
+
+VIG: 14, CLA: 9, SPI 12
+
+GD: 1
+
+- Bearded axe (d10 long)
+- Dusty mail (A1)
+- Cleaner salt
+- Wooden lion cub
+- Faithful steed (VIG 12, CLA 8, SPI 5, 3 GD)
 
 ## The War Knight
 
@@ -31,7 +42,6 @@ Any chance he gets he will go fishing on the peninsula. He’ll always bring [Th
 - Domain ruler at [Klaegcasleen](/holdings/klaegcasleen.qmd) (she/her)
 - Mature
 - Leader of the reinforcement faction
-- Gear: Polearm (+d10 against beasts and monster) and long mail hood
 
 [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) is a tall imposing figure in her armour. Fighting humans she is poised and will never strike those who have surrendered. Against beasts and monsters she will not stop till they or her are dead.
 
@@ -40,6 +50,19 @@ At court she wears her jade gambeson dress showing her flowing silver hair. Howe
 [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) knows the ginger child. [Aiden](/cast/klaegcasleen_vassals.qmd#aiden), that [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) holds hostage is not her real child. Her real child was stolen by The Burning Mother and so [The War Knight's](/cast//klaegcasleen_knights.qmd#the-war-knight) child is [The Child](/map/myths.qmd#the-child) in the myth. The child, like her mother is silver haired. Although she knows the myth hex location she does not go near, nor easily share the info, in case [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) interferes.
 
 [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) wants the truth but is self bound by her knightly oath.
+
+### Stats
+
+VIG: 12, CLA: 15, SPI 15
+
+GD: 2
+
+- Gear: Polearm (+d10 against beasts and monster)
+- Gambeson (A1)
+- Splint (A1) 
+- Long mail hood (A1)
+- Whalebone chess set and some skill
+- Stocky steed (VIG 15, CLA 8, SPI 5, 2 GD)
 
 ## The Fanged Knight
 
@@ -51,13 +74,25 @@ At court she wears her jade gambeson dress showing her flowing silver hair. Howe
 - Steward of [Klaegcasleen](/holdings/klaegcasleen.qmd) (he/him)
 - Mature
 - Repairer faction
-- Ancient scroll that references a body of water and an ancestor to them
 
 A greedy and hungry man they talk with a weak and detached voice. They are either lost in their memories or dreaming. They pay little attention to others except [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) who they obey as their source of wealth and comfort.
 
 Although they love what [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) provides, [The Fanged Knight](/cast/klaegcasleen_knights.qmd#the-fanged-knight) actually hates him and would be happy for someone else to lead. The Enthroned Seer has commanded [The Fanged Knight](/cast/klaegcasleen_knights.qmd#the-fanged-knight) to be the loyal steward of whoever leads the realm.
 
 [The Fanged Knight](/cast/klaegcasleen_knights.qmd#the-fanged-knight) really wants to “fix” The Enthroned Seer to the form of a human. No idea how to do this but he hopes he can extract all the precious metals from the seer when it happens.
+
+### Stats
+
+VIG: 12, CLA: 9, SPI 16
+
+GD: 3
+
+- Forked blade (d8 hefty)
+- chain mail (A1)
+- Shell plates (A1)
+- Ancient scroll that references a body of water and an ancestor to them
+- Noble steed (VIG 12, CLA 5, SPI 7, 4 GD)
+
 
 ## The Horn Knight
 
@@ -69,9 +104,6 @@ Although they love what [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-gh
 - [Klaegcasleen's](/holdings/klaegcasleen.qmd) Marshal (she/her)
 - Young
 - Repairers faction
-- Sharp beastly sounding horn
-- Antler-halberd, d8, +d10 vs horned or antlered opponents
-
 
 A short woman with a gravelly relaxed voice. Wielding an antler halberd and wild horn this rusty haired woman wears a red tunic and blue trousers.
 
@@ -81,3 +113,14 @@ Her quarters are in the caverns below the castle. Here she raises otters as a fa
 
 She is missing her pinky and ring finger on her left hand. Bitten off by the wolves that killed her family.
 She forces the guards to wear antlered helmets so she can easily beat them with her antler-halberd.
+
+### Stats
+
+VIG: 9, CLA: 4, SPI 14
+
+GD: 6
+
+- Sharp beastly sounding horn
+- Antler-halberd, d8, +d10 vs horned or antlered opponents
+- bow (d6 long)
+- Rusty warhorse (VIG 13, CLA 6, SPI 5, 2Gd, d6 trample)

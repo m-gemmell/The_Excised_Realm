@@ -17,6 +17,17 @@ They are a human of science and facts. They despise [Salvia the Sage](/cast/the_
 
 [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) grew up as part of The Itinerant Realm (see [History](/history/first_age.qmd)). Constantly travelling they value friendship over places. However, they stay here as the same realm (The Eminent Realm) who destroyed his family’s realm is now trying to invade their new realm. [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) grew up with [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) and they are lovers and regularly write to each other.
 
+### Stats
+
+VIG: 6, CLA: 8, SPI 6
+
+GD: 5
+
+- Spiked flail (d10, long)
+- barbed mail (A1, anyone trying to grab or hold you takes d6 damage)
+- Moat shovel (any hole dug with this immediately begins to fill with water, stopping when full)
+- Difficult steed (VIG 12, CLA 6, SPI 6, 2 GD, will not jump but is beautiful)
+
 ## The Rune Knight
 
 <center>
@@ -26,7 +37,6 @@ They are a human of science and facts. They despise [Salvia the Sage](/cast/the_
 - 4-1
 - Apprentice scholar at [Bochordil](/holdings/bochordil.qmd) (she/her)
 - Young
-- Crystal flask: If shaken gives of a gentle light, If smashed the next season arrives
 
 [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight) is a tall woman wearing a deep purple dress covered in runes of metallic thread. She speaks with a poetic whisper matching her cautious nature.
 She sees herself as a peacemaker and bridge between the knights and The Emerald Lights. Though she has currently made little ground.
@@ -36,6 +46,18 @@ The stated reason was treason but was actually due to personal conflict with her
 This has caused The Rune Knight to become a people pleaser and try to stay out of sight by escaping into the books at [Bochordil](/holdings/bochordil.qmd).
 
 [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight) sees [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) as her sister but gives her space since [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) seems to hate her.
+
+### Stats
+
+VIG: 10, CLA: 6, SPI 3
+
+GD: 3
+
+- Pillar of inscribed stone (2d10 slow)
+- Gambeson (A1)
+- Iron chestplate (A1)
+- Crystal flask: If shaken gives of a gentle light, If smashed the next season arrives
+- Muscular charger (VIG 13, CLA 8, SPI 5, 3 GD, d8 trample)
 
 ## The Violet Knight
 
@@ -53,7 +75,6 @@ They are adored by the emerald lights and they adore them back.
 
 They became the leader of Fabriknock by winning a duel against the previous leader, [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight).
 This was during [The Terminator](/history/second_age.qmd#the-terminator) event.
-
 
 ### Stats
 
@@ -73,13 +94,24 @@ Grand mace (d10, long), Gagger (d6), SHortsword (d6)
 - “Ruler” of [Inis Ocular](/holdings/inis_ocular.qmd) (she/her)
 - Old
 - Mother of The Rune Knight
-- Soothing salve: aroma of meat, side effect of lethargy
 
 [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) is a weathered old woman wearing crude dresses. She only wears dresses from her lost realm, emblazoned with parallel lines that connect, representing the circular path of their previous nomadic life. This is the same realm [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) came from, The Itinerant Realm (see [History](/history/first_age.qmd)).
 
 Her voice is strong and terse yet her writing voice is sweet and gentle. She regularly writes to her lover ([The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight)) and their daughter ([The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight)). Although she knows [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) hates [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight) she is an adoring ally of [The Rune Knight](/cast/other_holding_knights.qmd#the-rune-knight). Nothing would make her happier than seeing those two acting like loving sisters rather than fighting sisters.
 
 Above all [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) wishes for the “Temple” at [Bochordil](/holdings/bochordil.qmd) to be destroyed. Maybe then [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) would pay more attention to her and it would really stick it to the [Emerald Lights](/cast/the_emerald_lights.qmd).
+
+### Stats
+
+VIG: 14, CLA: 13, SPI 6
+
+GD: 6
+
+- Dull sword (2d6 hefty)
+- tattered gambeson (A1)
+- cracked shield (d4, A1)
+- Soothing salve: aroma of meat, side effect of lethargy
+- Untested steed (VIG 12, CLA 8, SPI 4, 2 GD)
 
 ## The Leaf Knight
 

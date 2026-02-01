@@ -10,13 +10,23 @@
 - Sheriff of [Klaegcasleen](/holdings/klaegcasleen.qmd) (they/them)
 - Mature
 - Helps both the repairers and reinforcement factions for favours
-- Explosives: Fire bird egg, explodes by touching the ground
 
 [The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight) hides amongst the peasants, constantly gathering intel on Myths, Seers, and the Realm. They play all sides trying to act as a balancing force, knocking down the high and raising the low. Although effectively neutral they side more with [The War Knight](/cast//klaegcasleen_knights.qmd#the-war-knight) as The [The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight) is kind and despises the [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) cruelty expressed through the kidnapping of [The War Knight's](/cast//klaegcasleen_knights.qmd#the-war-knight) child.
 
 [The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight) may show their androgynous youthful knightly presence to help other kind knights. They’ll only share info to those with stories to share, truth or fabrications are equally important to [The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight).
 
 Once a protege painter in the castle, [The Mule Knight's](/cast/wandering_knights.qmd#the-mule-knight) eyes are a lightish silver blue as all the lead accumulated in them. Although this stopped all other lead poisoning effects he became effectively blind and so he rarely leaves his horse. Unable to paint he found a heart he extracted from spores and tendrils and put into a jar he carries. This heart is the Green Seer who knighted [The Mule Knight](/cast/wandering_knights.qmd#the-mule-knight).
+
+### Stats
+
+VIG: 16, CLA: 10, SPI 14
+
+GD: 3
+
+- Explosives: Fire bird egg, explodes by touching the ground
+- Weighted longstaff (d10 long)
+- polished chainmail (A1)
+- Tall steed (VIG 14, CLA 7, SPI 6, 2 GD)
 
 ## The Bone Knight
 
@@ -28,7 +38,6 @@ Once a protege painter in the castle, [The Mule Knight's](/cast/wandering_knight
 - Envoy of [Klaegcasleen](/holdings/klaegcasleen.qmd) (she/her)
 - Young
 - Reinforcement faction
-- Box of bones, painted wooden case, bones of unsorted chaos
 
 A dark skinned woman with an afro. She wears a black and white hooded cloak with stylish but functional dress underneath.
 
@@ -39,3 +48,14 @@ She is frequently away over the seas or through the realm to keep alliances and 
 She is constantly trying to enrich the poorest and is afraid of being imprisoned or tied down.
 
 Although not as great as other knights in mass battle she is great at assassinations and ambushing. She frequently tries to assassinate [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight) but has never found a clean opportunity to do so.
+
+### Stats
+
+VIG: 10, CLA: 15, SPI 17
+
+GD: 2
+
+- Needledagger (d6, +d6 against armoured targets)
+- Jagged buckler (d4, A1)
+- Box of bones, painted wooden case, bones of unsorted chaos
+- Marsh steed (VIG 12, CLA 8, SPI 5, 3 GD, moves effortlessly on bog and marsh)

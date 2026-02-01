@@ -33,6 +33,12 @@ Their apprentice was [Hygo](/cast/fabriknock_vassals.qmd#hygo) who now lives in 
 - The War Knight's real child is now the Promised child from the myth
 - [The War Knight](/cast/klaegcasleen_knights.qmd#the-war-knight) knows all the above
 
+### Derk Something
+
+- Master painter at Klaegcasleen.
+- Old and irritable due to their lead poisoning
+- "Head" of the Something family.
+
 ### Boatmen
 
 <center>
@@ -40,6 +46,7 @@ Their apprentice was [Hygo](/cast/fabriknock_vassals.qmd#hygo) who now lives in 
 </center>
 
 Three boatmen:
+
     - Alfonsino (Al-fon-sin-o)
     - Bream (Bree-am)
     - Dace (Da-che)
