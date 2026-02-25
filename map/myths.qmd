@@ -2,23 +2,17 @@
 
 ## Active
 
-### The Inferno
+### The Hydra
 
 - ID: 1
-- 6-4
+- 5-9
 - Location: R11-C3
 
-### The Child
-
-<center>
-![](/images/child_dither.png){style="width:250px; border-radius: 5px;"}
-</center>
-
+### The Spire
 
 - ID: 2
-- 1-8
-- Location: R1-C8
-- The real child of [The War Knight](/cast/klaegcasleen_knights.qmd#the-war-knight)
+- 5-10
+- Location: 4-6
 
 ### The Desert
 
@@ -74,3 +68,15 @@
     - Struck by lightning it burnt up leaving only its bones behind. 
     - The Knight company asked for this.
 - It will be a bad harvest year.
+
+### The Child
+
+<center>
+![](/images/child_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
+
+
+- ID: 2
+- 1-8
+- Location: R1-C8
+- The real child of [The War Knight](/cast/klaegcasleen_knights.qmd#the-war-knight)

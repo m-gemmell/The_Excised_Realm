@@ -5,6 +5,41 @@
 - Location:
 - Importance: Trade port for the realm to other realms across the sea. Trade only occurs here to quarantine merchants from other realms.
 
+## Corpse island
+
+The island consists of a single mound in a spiral shape, petering off towards the external of the island.
+The charred remains of the red serpent from The Inferno myth made for perfect volcanic soil and a strong foundation to the island.
+The ground is still warm yet does not burn meaning the island is warm all year round.
+
+Birch trees grow out of the grooves of the spiral whilst [Red Bugloss](https://en.wikipedia.org/wiki/Echium_wildpretii) cover the rocky tops. 
+Ants live in the soils collecting honeydew from the birch habiting aphids.
+In turn short spaghetti sized blind snakes (Leptotyphlopidae) eat the ants and their eggs.
+
+
+Gold and treasures are buried deep in the belly of the corpse.
+They have not been discovered.
+
+The head of the snake is where the main fortress stands.
+On one of the eyes lays the Observatory.
+
+The serpent 
+
+Massive Serpentine catfish feed off the nutrients the island gives off.
+
+### Serpentine catfish
+
+A massive serpent with the features of a catfish.
+Once normal catfish but changed by the presence of the red serpent's corpse.
+
+VIG: 12, CLA: 10, SPI 6
+
+GD: 7
+
+- Bite: 2d12
+- Water blast and whiskers: 2d6 blast
+
+Decided based on [Story knight tale](/sessions/session_five.qmd#day-2-night)
+
 ## Port
 
 The port is bustling with trade.
@@ -46,6 +81,7 @@ Lots of leather is received from other realms through trade as there is little c
 
 [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) is blackmailed by [Mentha the Mint](/cast/the_emerald_lights.qmd#mentha-the-mint) to let [The Emerald Lights](/cast/the_emerald_lights.qmd) rule. 
 This is because they have evidence of [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) skimming wealth off the top from the trade that passes through.
+SHe fears execution by [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-ghoul-knight)
 
 ## Used Prompts
 
