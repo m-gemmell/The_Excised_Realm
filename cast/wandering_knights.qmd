@@ -21,7 +21,7 @@ Once a protege painter in the castle, [The Mule Knight's](/cast/wandering_knight
 
 VIG: 16, CLA: 10, SPI 14
 
-GD: 3
+GD: 6
 
 - Explosives: Fire bird egg, explodes by touching the ground
 - Weighted longstaff (d10 long)

@@ -5,6 +5,17 @@
 - Location: R5-C12
 - Importance: Primary source of forged metals in the realm
 
+## Emerald light stronghold
+
+[The Violet knight](/cast/the_emerald_knights.qmd#the-violet-knight) controls Fabriknock.
+His forces include:
+
+- 4 bee swarms (warband): Controlled by the Violet Knight. Can only be controlled in the bee fields surrounding Farbiknock.
+- 3 Skirmishers
+- 2 Mercenaries
+
+- Idea: Crabbe Has become a knight
+
 ## Forge
 
 Constant hammering rings through the bailey. 

@@ -1,0 +1,104 @@
+# The Emerald Knights
+
+Knights of [The Emerald Lights](/cast/the_emerald_lights.qmd)
+
+## The Violet Knight
+
+Leader of Fabriknock, an Emerald Light strong hold.
+
+<center>
+![The Violet Knight](/images/violet_knight_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
+
+- 5-4
+- The Obsidian
+- Ruler of [Fabriknock](/holdings/fabriknock.qmd) (he/him)
+- Young
+- Was part of the Original company of knights (player knights)
+- Flattering handmirror: Show's the viewer the ideal vision of themselves
+
+They are adored by the emerald lights and they adore them back.
+
+They became the leader of Fabriknock by winning a duel against the previous leader, [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight).
+This was during [The Terminator](/history/second_age.qmd#the-terminator) event.
+
+
+
+### Stats
+
+VIG: 12, CLA: 7, SPI 10
+
+GD: 9, Armor: 2
+
+- Grand mace (d10, long)
+- Dagger (d6)
+- Shortsword (d6)
+- Wicker gambeson (A1)
+- Wicker beekeeper helmet (A1)
+
+Ability: Metal object you hold emits ultraviolet light. You can see this light.
+
+## The Cosmic Knight
+
+- 5-5
+- The Emerald
+- Was [Mentha the Mint](/cast/the_emerald_lights.qmd#mentha-the-mint)
+
+### Stats
+
+VIG: 15, CLA: 14, SPI 13
+
+GD: 4
+
+- Strange crossbow: lightwood (d8 hefty), Cannot shoot in the dark
+- Echostone (can record and repeat one spoken phrase)
+- Boneless steed (VIG 10, CLA 8, SPI 5, 3 GD, can squeeze through any gap as large as its head)
+
+Ability: If they can see the skies they can focus for a minute and vanish to a distant sanctuary beyond reality. Leave a small glowing stone that you can rematerilise at at any time.
+
+## The Forge Knight
+
+- 3-12
+- The Yellow
+- Religious leader of [Fabriknock](/holdings/fabriknock.qmd) (he/him)
+- Was [Crabbe](/cast/the_emerald_lights.qmd#crabbe)
+
+### Stats
+
+VIG: 8, CLA: 11, SPI 12
+
+GD: 2, Armor: 2
+
+- Bolt-guisarme (d10 long in melee or d10 slow ranged)
+- Gambeson (A1)
+- Scale (A1)
+- Scars from the forge: Branded arm, Light sensitivity
+- Pots of forge dust (spreads irritating gas in the area when broken, Impairing attacks from within. You can make more anywhere with a forge)
+- Helmed steed (VIG 14, CLA 4, SPI 5, 4GD, d6 trample, A1)
+
+Ability: Your weapon deals +d8 until the end of combat after causing a wound
+
+Passion: Restore SPI when wounded by fire
+
+## The Reliquary Knight
+
+- 5-10
+- The Fourth
+
+### Stats
+
+VIG: 13, CLA: 12, SPI 10
+
+GD: 2, Armor: 2
+
+- War sickle (d8 hefty)
+- Gambeson (A1)
+- Carved plate (A1)
+- Sack of history tomes
+- Treasured reliquary (Dessicated pinky of the Green Eyed Seer)
+- Bearded steed (VIG 12, CLA 8, SPI 6, 3GD)
+
+Ability: Once per day, release the invisible spirit from reliquary. 
+In essence an invisible Mr Meeseeks.
+
+Passion: tradition is thoroughly honoured.

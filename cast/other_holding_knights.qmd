@@ -21,7 +21,7 @@ They are a human of science and facts. They despise [Salvia the Sage](/cast/the_
 
 VIG: 6, CLA: 8, SPI 6
 
-GD: 5
+GD: 7
 
 - Spiked flail (d10, long)
 - barbed mail (A1, anyone trying to grab or hold you takes d6 damage)
@@ -61,28 +61,9 @@ GD: 3
 
 ## The Violet Knight
 
-<center>
-![The Violet Knight](/images/violet_knight_dither.png){style="width:250px; border-radius: 5px;"}
-</center>
+Leader of Fabriknock, an Emerald Lights strong hold.
 
-- 5-4
-- Ruler of [Fabriknock](/holdings/fabriknock.qmd) (he/him)
-- Young
-- Was part of the Original company of knights (player knights)
-- Flattering handmirror: Show's the viewer the ideal vision of themselves
-
-They are adored by the emerald lights and they adore them back.
-
-They became the leader of Fabriknock by winning a duel against the previous leader, [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight).
-This was during [The Terminator](/history/second_age.qmd#the-terminator) event.
-
-### Stats
-
-VIG: 12, CLA: 7, SPI 10
-
-GD: 9
-
-Grand mace (d10, long), Gagger (d6), SHortsword (d6)
+See: [The Violet Knight](/cast/the_emerald_knights.qmd#the-violet-knight)
 
 ## The Shield Knight
 
@@ -90,6 +71,7 @@ Grand mace (d10, long), Gagger (d6), SHortsword (d6)
 ![](/images/shield_knight_dither.png){style="width:200px; border-radius: 5px;"}
 </center>
 
+- Deceased as of session 6
 - 2-8
 - “Ruler” of [Inis Ocular](/holdings/inis_ocular.qmd) (she/her)
 - Old
@@ -101,11 +83,14 @@ Her voice is strong and terse yet her writing voice is sweet and gentle. She reg
 
 Above all [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) wishes for the “Temple” at [Bochordil](/holdings/bochordil.qmd) to be destroyed. Maybe then [The Moat Knight](/cast/other_holding_knights.qmd#the-moat-knight) would pay more attention to her and it would really stick it to the [Emerald Lights](/cast/the_emerald_lights.qmd).
 
+The Shield Knight passed away during The Child's uprising at Inis Ocular.
+When her daughter, The Leaf Knight, was slain by a barrage of arrows the onlooking Shield Knight used her power to take her place instead.
+
 ### Stats
 
 VIG: 14, CLA: 13, SPI 6
 
-GD: 6
+GD: 10
 
 - Dull sword (2d6 hefty)
 - tattered gambeson (A1)

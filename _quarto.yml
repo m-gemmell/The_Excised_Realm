@@ -64,9 +64,12 @@ website:
       - href: cast/wandering_knights.qmd
     - section: Vassals
       contents:
-      - href: cast/the_emerald_lights.qmd
       - href: cast/klaegcasleen_vassals.qmd
       - href: cast/fabriknock_vassals.qmd
+    - section: The Emerald lights
+      contents:
+      - href: cast/the_emerald_lights.qmd
+      - href: cast/the_emerald_knights.qmd
   - id: Holdings
     title: Holdings
     style: floating
@@ -101,6 +104,8 @@ website:
     - href: sessions/session_three.qmd
     - href: sessions/session_four.qmd
     - href: sessions/session_five.qmd
+    - href: sessions/session_six.qmd
+    - href: sessions/session_seven.qmd
 format:
   html:
     mainfont: Caudex

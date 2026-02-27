@@ -24,7 +24,7 @@ Any chance he gets he will go fishing on the peninsula. He’ll always bring [Th
 
 VIG: 14, CLA: 9, SPI 12
 
-GD: 1
+GD: 7
 
 - Bearded axe (d10 long)
 - Dusty mail (A1)
@@ -55,7 +55,7 @@ At court she wears her jade gambeson dress showing her flowing silver hair. Howe
 
 VIG: 12, CLA: 15, SPI 15
 
-GD: 2
+GD: 3
 
 - Gear: Polearm (+d10 against beasts and monster)
 - Gambeson (A1)
@@ -85,7 +85,7 @@ Although they love what [The Ghoul Knight](/cast/klaegcasleen_knights.qmd#the-gh
 
 VIG: 12, CLA: 9, SPI 16
 
-GD: 3
+GD: 4
 
 - Forked blade (d8 hefty)
 - chain mail (A1)
