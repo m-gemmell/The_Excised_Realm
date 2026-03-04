@@ -7,7 +7,7 @@ Knights of [The Emerald Lights](/cast/the_emerald_lights.qmd)
 Leader of Fabriknock, an Emerald Light strong hold.
 
 <center>
-![The Violet Knight](/images/violet_knight_dither.png){style="width:250px; border-radius: 5px;"}
+![The Violet Knight](/images/emerald_knights_violet_knight.png){style="width:250px; border-radius: 5px;"}
 </center>
 
 - 5-4
@@ -21,8 +21,6 @@ They are adored by the emerald lights and they adore them back.
 
 They became the leader of Fabriknock by winning a duel against the previous leader, [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight).
 This was during [The Terminator](/history/second_age.qmd#the-terminator) event.
-
-
 
 ### Stats
 
@@ -40,6 +38,10 @@ Ability: Metal object you hold emits ultraviolet light. You can see this light.
 
 ## The Cosmic Knight
 
+<center>
+![The Cosmic Knight](/images/emerald_knights_cosmic_knight.png){style="width:250px; border-radius: 5px;"}
+</center>
+
 - 5-5
 - The Emerald
 - Was [Mentha the Mint](/cast/the_emerald_lights.qmd#mentha-the-mint)
@@ -48,15 +50,20 @@ Ability: Metal object you hold emits ultraviolet light. You can see this light.
 
 VIG: 15, CLA: 14, SPI 13
 
-GD: 4
+GD: 4, Armor: 1
 
 - Strange crossbow: lightwood (d8 hefty), Cannot shoot in the dark
+- BUrnt leaf helmet (A1)
 - Echostone (can record and repeat one spoken phrase)
 - Boneless steed (VIG 10, CLA 8, SPI 5, 3 GD, can squeeze through any gap as large as its head)
 
 Ability: If they can see the skies they can focus for a minute and vanish to a distant sanctuary beyond reality. Leave a small glowing stone that you can rematerilise at at any time.
 
 ## The Forge Knight
+
+<center>
+![The Forge Knight](/images/emerald_knights_forge_knight.png){style="width:250px; border-radius: 5px;"}
+</center>
 
 - 3-12
 - The Yellow
@@ -81,6 +88,10 @@ Ability: Your weapon deals +d8 until the end of combat after causing a wound
 Passion: Restore SPI when wounded by fire
 
 ## The Reliquary Knight
+
+<center>
+![The Reliquary Knight](/images/emerald_knights_reliquary_knight.png){style="width:250px; border-radius: 5px;"}
+</center>
 
 - 5-10
 - The Fourth

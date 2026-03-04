@@ -4,6 +4,10 @@
 
 ### The Hydra
 
+<center>
+![](/images/hydra_dither.png){style="width:250px; border-radius: 5px;"}
+</center>
+
 - ID: 1
 - 5-9
 - Location: R11-C3

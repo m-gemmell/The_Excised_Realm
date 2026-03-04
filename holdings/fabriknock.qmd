@@ -10,7 +10,9 @@
 [The Violet knight](/cast/the_emerald_knights.qmd#the-violet-knight) controls Fabriknock.
 His forces include:
 
-- 4 bee swarms (warband): Controlled by the Violet Knight. Can only be controlled in the bee fields surrounding Farbiknock.
+- 4 Bee swarms (warband): Controlled by the Violet Knight. Can only be controlled in the bee fields surrounding Farbiknock.
+    - VIG 15, CLA 8, SPI 9, 5GD
+    - Stings (2d6, suffer the same damage as they deal)
 - 3 Skirmishers
 - 2 Mercenaries
 

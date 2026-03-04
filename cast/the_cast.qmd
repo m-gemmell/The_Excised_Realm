@@ -37,18 +37,31 @@
 
 ## Fabriknock (Fa-bree-knock)
 
-- [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) (she/her) 6-3
+
+- [The Violet Knight](/cast/the_emerald_knights.qmd#the-violet-knight)
     - Ruler
 - [Mr .Something](/cast/fabriknock_vassals.qmd#mr.-something) (he/him)
     - Head guard
 - [Turnebucke something](/cast/fabriknock_vassals.qmd#turnebucke-something) (he/him)
     - Guard and son of Mr. Something
-- [Crabbe](/cast/the_emerald_lights.qmd#crabbe) (they/them)
+- [The Forge Knight](/cast/the_emerald_knights.qmd#the-forge-knight)
+    - Was [Crabbe](/cast/the_emerald_lights.qmd#crabbe) (they/them)
     - Local leader of the Emerald Lights
 
 ## Inis Ocular (Inn-ish Awk-you-lar)
 
 - [The Shield Knight](/cast/other_holding_knights.qmd#the-shield-knight) (she/her) 2-8
-    - Ruler
+    - Ex-ruler
+    - Deceased
 - [Mentha the Mint](/cast/the_emerald_lights.qmd#mentha-the-mint) (they/them)
     - One of the three leaders of the “Emerald Lights”
+    - Ousted
+
+## Misc
+
+- [The Cosmic Knight](/cast/the_emerald_knights.qmd#the-cosmic-knight)
+    - Was [Mentha the Mint](/cast/the_emerald_lights.qmd#mentha-the-mint)
+- [The Reliquary Knights](/cast/the_emerald_knights.qmd#the-reliquary-knight)
+- [The Leaf Knight](/cast/other_holding_knights.qmd#the-leaf-knight) (she/her) 6-3
+    - Ex-ruler of Fabirrnock
+    - Now a player
