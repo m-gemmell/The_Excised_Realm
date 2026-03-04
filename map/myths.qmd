@@ -5,7 +5,8 @@
 ### The Hydra
 
 <center>
-![](/images/hydra_dither.png){style="width:250px; border-radius: 5px;"}
+![The Hydra](/images/hydra_dither.png){style="width:250px; border-radius: 5px;"}
+![The Candle Knight](/images/candle_knight_dither.png){style="width:250px; border-radius: 5px;"}
 </center>
 
 - ID: 1
