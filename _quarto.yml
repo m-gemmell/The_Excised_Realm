@@ -106,6 +106,7 @@ website:
     - href: sessions/session_five.qmd
     - href: sessions/session_six.qmd
     - href: sessions/session_seven.qmd
+    - href: sessions/session_eight.qmd
 format:
   html:
     mainfont: Caudex
