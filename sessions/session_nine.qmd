@@ -1,0 +1,108 @@
+# Session Nine
+
+## Hydra
+
+Ask the players the following questions:
+
+- How do you track down the Hydra's current locations?
+- How do you acquire weapons of your namesake?
+- How do you intend to trap and vanquish the Hydra?
+
+The Hydra is the mountain ruins of Lugran, a castle once used for mining.
+
+> Metal clinks off the crumbling stones.
+> The white and green lights of the sky fizzles as windbound sands scrape against the ruins.
+> You find the mine tower.
+> It was at the deepest point of the once grand castle yet you are at its top.
+
+
+> Descending down the circular stair you're careful not to fall into the centre.
+> You could brave the rope that was once used to lift up treasures but you fear it'll next be used for your coffin.
+> So steadily you descend into the abyss.
+
+Break her to go to Desert Hag section
+
+> Finally you reach the bottom and exit the tower.
+> The scene is lit by glittering green and yellow light bouncing off the ores and gems of the uneven walls.
+> Tracks zigzag over the floors leading to various tunnels, carts standing and fallen full of precious minerals.
+> The smell of wet copper, iron and sulpher clings to the air.
+> There is so much to see, dead smelter, wooden cranes, wooden cabins with pots of dessicated food, and the bones of miners.
+> But their is one feature all your eyes attempt to focus on.
+> One of the cart tracks leads into a perfectly circular and perfectly vertical tunnel.
+> No light penetrates it and light leaves it.
+> The Hydra's hollow.
+
+## Desert Hag
+
+Here the players will play as The Emerald Knights:
+
+- [The Violet Knight](/cast/the_emerald_knights.qmd#the-violet-knight)
+- [The Cosmic Knight](/cast/the_emerald_knights.qmd#the-cosmic-knight)
+- [The Forge Knight](/cast/the_emerald_knights.qmd#the-forge-knight)
+- [The Reliquary Knight](/cast/the_emerald_knights.qmd#the-reliquary-knight)
+
+> The warm embrace of Emerald.
+> You open your eyes to see your allies enveloped in the emerald too.
+> You hear a voice in your head.
+> Once you did not recognise it but through eternal repetitions you know it be your own.
+> And so you recite the oath again.
+
+> Seek the Purple<br>
+> Honour the Emerald<br>
+> Protect the Harvest<br>
+
+> Once more for luck
+
+> Seek the Purple<br>
+> Honour the Emerald<br>
+> Protect the Harvest<br>
+
+> A jostle followed by a gentle thud.
+> A blur of images but once you fully gain your senses you feel the ground below your feet and see the green lights above.
+> The tower has dropped you by the lake.
+> You all now remember the mission The Green Eyed Seer has gifted you.
+> Find the Desert hag and eliminate her, she has taken the rain.
+> It will reduce the harvest.
+> Shocked by the lack of rain but even without the sight of a dried out lake you would know it to be true.
+> The Green Eyed Seer is all seeing.
+
+Challenges
+
+- Traversing the desert
+    - A giant buzzard hunts the company
+    - Sand storms and mirages trick their senses into losing direction (CLA)
+    - The cold nights sap their energy (VIG)
+    - The heat and sun thirsts for their spirit (SPI)
+    - Floating eyeballs of sand roam the desert trying to spot any interlopers
+- The hag's den
+    - A  deep massive crater
+    - A surface of hard purple dust where all feels weightless
+    - At the bottom are structures
+    - Perimeter of raised black glass all facing the sun (solar panels)
+    - Within are white cylindrical buildings topped with domes
+        - Cylinders made of distinct panels whilst domes constructed from triangles
+    - Middle is a Large tower, thick at the bottom and pointed at the top
+        - At the top the Dust hag watches
+        - 5 defense drones
+    - In essence like the moon
+
+Dust hag
+    - Large white puffy suit with a golden glass visor
+    - The end of her white gauntlets end in thick tubes where purple dust slowly drifts from
+    - She moves in what looks like slow motion but is incredibly controlled
+    - Wants Entertainment of a very specific type (wishes to see knights fight and kill each other)
+    - She hates the seers so enjoys their pawns (knights) killing one another
+
+### Defense drones
+
+White drones 
+
+VIG: 10, CLA: 14, SPI 4
+
+GD: 3
+
+- Dust rifle: 2D8
+
+## The new religious leader
+
+## Emerald lights harvest
